@@ -43,7 +43,7 @@ class Playlist{
      * @returns 
      */
     async filterSongs(songs, filter){
-        const filtered = songs.filter(song => song[filter.key].includes(filter.value));
+        const filtered = songs.filter(song => song[filter.key].toLowerCase().includes(filter.value.toLowerCase()));
         return filtered;
     }
 
@@ -147,6 +147,19 @@ async function createForm(){
     submitButton.addEventListener("click", submitForm);
     form.appendChild(submitButton);
 
+    const randomAmount = document.createElement("input");
+    randomAmount.type = "number";
+    randomAmount.value = 1;
+    randomAmount.min = 1;
+    randomAmount.max = 10;
+    randomAmount.id = "randomAmount";
+    form.appendChild(randomAmount);
+
+
+    const randomButton = document.createElement("button");
+    randomButton.innerText = "Random";
+    randomButton.addEventListener("click", randomSong);
+    form.appendChild(randomButton);
 }
 
 /**
@@ -282,6 +295,22 @@ async function generateRequest(event){
     
 }
 
-
+/**
+ * 
+ * @param {SubmitEvent} event 
+ */
+async function randomSong(event) {
+    event.preventDefault();
+    const amount = Math.min(document.getElementById("randomAmount").value, 20);
+    console.log(amount);
+    const playlist = new Playlist("Stream", "./assets/playlists/stream.txt");
+    const songs = await playlist.getSongs();
+    var randomSongs = [];
+    for(let i = 0; i < amount; i++){
+        const randomSong = songs[Math.floor(Math.random() * songs.length)];
+        randomSongs.push(randomSong);
+    }
+    setTable(randomSongs);
+}
 main();
 
