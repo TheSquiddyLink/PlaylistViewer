@@ -48,27 +48,16 @@ class Playlist{
     }
 
     /**
-     * 
-     * @param {Filter} filter 
-     * @returns 
-     */
-    async filterSongs(filter){
-        const songs = await this.getSongs();
-        const filtered = songs.filter(song => song[filter.key].includes(filter.value));
-        return filtered;
-    }
-
-    
-
-    /**
      * @param {Filter[]} filters 
      */
     async multiFilterSongs(filters){
         var songs = await this.getSongs();
         for(let i = 0; i < filters.length; i++){
             const filter = filters[i];
-            songs = await this.filterSongs(filter.key, filter.value);
+            console.log(filter)
+            songs = await this.filterSongs(songs, filter);
         }
+        return songs;
     }
     
 }
@@ -164,10 +153,25 @@ async function submitForm(event){
     event.preventDefault();
     console.log(event.target);
     const album = document.getElementById("album").value;
+    const artist = document.getElementById("artist").value;
+    const title = document.getElementById("title").value;
+
+    var filters = [];
+    if(album){
+        filters.push(new Filter("album", album));
+    }
+    if(artist){
+        filters.push(new Filter("artist", artist));
+    }
+    if(title){
+        filters.push(new Filter("title", title));
+    }
+
+    console.log(filters);
+
 
     const playlist = new Playlist("Stream", "./assets/playlists/stream.txt");
-    console.log(album)
-    const songs = await playlist.filterSongs(new Filter("album", album));
+    const songs = await playlist.multiFilterSongs(filters);
     console.log(songs);
     setTable(songs);
 }
