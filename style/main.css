@@ -1,3 +1,37 @@
+/* Main */
+
+body {
+    background-image: url(../assets/images/background.png);
+    background-size: 100%;
+    background-repeat: repeat-y;
+}
+
+header {
+    background-color: rgba(255, 255, 255, 0.47);
+    padding: 1%;
+    margin: 1%;
+    border-radius: 25px;
+    text-align: center;
+}
+
+
+#filter {
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    align-items: center;
+}
+#filter > * {
+    margin: 5px;
+}
+
+/* Table */
+
+.tableDiv {
+    display: flex;
+    justify-content: space-around;
+    margin: 1%;
+}
 .album-art {
     height: 50px;
     width: 50px;
@@ -5,10 +39,17 @@
 
 #table {
     border-collapse: collapse;
+    background-color: rgba(255, 255, 255, 0.47);
+    border-radius: 15px;
+}
+#table th {
+    padding: 10px;
 }
 #table td {
-    padding: 5px;
+    padding: 10px;
     border: 1px solid black;
+    text-align: c;
+    filter: drop-shadow(4px 4px 4px #0000009d);
 }
 #table img {
     vertical-align: middle;
