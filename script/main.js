@@ -111,6 +111,10 @@ class Song {
         
         return str.slice(startIndex, endIndex);
     }
+
+    get art(){
+        return "./assets/images/albums/" + this.album + ".png"
+    }
 }
 
 async function main(){
@@ -187,6 +191,20 @@ async function setTable(songs){
     for(let i = 0; i < songs.length; i++){
         const song = songs[i];
         const tr = document.createElement("tr");
+        
+        if(songs.length < 150){
+            const td0 = document.createElement("td");
+            const img = document.createElement("img");
+            img.src = song.art;
+            img.onerror = () => {
+                img.src = './assets/images/albums/unknown.png';
+            };
+            img.classList.add("album-art");
+            td0.appendChild(img);
+            tr.appendChild(td0);
+        }
+       
+
         const td1 = document.createElement("td");
         td1.innerText = song.artist;
         const td2 = document.createElement("td");
