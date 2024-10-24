@@ -38,7 +38,7 @@ class Playlist{
 
     async filterSongs(key, value){
         const songs = await this.getSongs();
-        const filtered = songs.filter(song => song[key] == value);
+        const filtered = songs.filter(song => song[key].includes(value));
         return filtered;
     }
 }
@@ -90,13 +90,70 @@ class Song {
 }
 
 async function main(){
-    const StreamPlaylist = new Playlist("Stream", "./assets/playlists/stream.txt");
-    const filteredSongs = await StreamPlaylist.filterSongs("album", "Super Mario Galaxy");
-    console.log(filteredSongs);
+    createForm();
 }
 
+async function createForm(){
+    const form = document.getElementById("filter");
 
+    const albumInput = document.createElement("input");
+    albumInput.type = "text";
+    albumInput.placeholder = "Album";
+    albumInput.id = "album";
+    form.appendChild(albumInput);
 
+    const artistInput = document.createElement("input");
+    artistInput.type = "text";
+    artistInput.placeholder = "Artist";
+    artistInput.id = "artist";
+    form.appendChild(artistInput);
+    
+    const submitButton = document.createElement("button");
+    submitButton.innerText = "Submit";
+    submitButton.addEventListener("click", submitForm);
+    form.appendChild(submitButton);
 
+}
+
+/**
+ * 
+ * @param {SubmitEvent} event 
+ */
+async function submitForm(event){
+    event.preventDefault();
+    console.log(event.target);
+    const album = document.getElementById("album").value;
+
+    const playlist = new Playlist("Stream", "./assets/playlists/stream.txt");
+    console.log(album)
+    const songs = await playlist.filterSongs("album", album);
+    console.log(songs);
+    setTable(songs);
+}
+
+/**
+ * 
+ * @param {Song[]} songs 
+ */
+async function setTable(songs){
+    const table = document.getElementById("table");
+    table.innerHTML = "";
+    const tbody = document.createElement("tbody");
+    for(let i = 0; i < songs.length; i++){
+        const song = songs[i];
+        const tr = document.createElement("tr");
+        const td1 = document.createElement("td");
+        td1.innerText = song.artist;
+        const td2 = document.createElement("td");
+        td2.innerText = song.album;
+        const td3 = document.createElement("td");
+        td3.innerText  = song.title;
+        tr.appendChild(td1);
+        tr.appendChild(td2);
+        tr.appendChild(td3);
+        tbody.appendChild(tr);
+    }
+    table.appendChild(tbody);
+}
 main();
 
