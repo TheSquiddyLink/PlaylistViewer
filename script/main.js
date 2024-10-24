@@ -192,7 +192,7 @@ async function setTable(songs){
         const song = songs[i];
         const tr = document.createElement("tr");
         
-        if(songs.length < 150){
+        if(songs.length < 999){
             const td0 = document.createElement("td");
             const img = document.createElement("img");
             img.src = song.art;
