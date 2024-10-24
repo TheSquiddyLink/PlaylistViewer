@@ -36,13 +36,48 @@ class Playlist{
 
     }
 
-    async filterSongs(key, value){
-        const songs = await this.getSongs();
-        const filtered = songs.filter(song => song[key].includes(value));
+    /**
+     * 
+     * @param {Song[]} songs 
+     * @param {Filter} filter 
+     * @returns 
+     */
+    async filterSongs(songs, filter){
+        const filtered = songs.filter(song => song[filter.key].includes(filter.value));
         return filtered;
     }
-}
 
+    /**
+     * 
+     * @param {Filter} filter 
+     * @returns 
+     */
+    async filterSongs(filter){
+        const songs = await this.getSongs();
+        const filtered = songs.filter(song => song[filter.key].includes(filter.value));
+        return filtered;
+    }
+
+    
+
+    /**
+     * @param {Filter[]} filters 
+     */
+    async multiFilterSongs(filters){
+        var songs = await this.getSongs();
+        for(let i = 0; i < filters.length; i++){
+            const filter = filters[i];
+            songs = await this.filterSongs(filter.key, filter.value);
+        }
+    }
+    
+}
+class Filter {
+    constructor(key, value){
+        this.key = key;
+        this.value = value;
+    }
+}
 class Song {
     /**
      * 
@@ -107,7 +142,13 @@ async function createForm(){
     artistInput.placeholder = "Artist";
     artistInput.id = "artist";
     form.appendChild(artistInput);
-    
+
+    const titleInput = document.createElement("input");
+    titleInput.type = "text";
+    titleInput.placeholder = "Title";
+    titleInput.id = "title";
+    form.appendChild(titleInput);
+
     const submitButton = document.createElement("button");
     submitButton.innerText = "Submit";
     submitButton.addEventListener("click", submitForm);
@@ -126,7 +167,7 @@ async function submitForm(event){
 
     const playlist = new Playlist("Stream", "./assets/playlists/stream.txt");
     console.log(album)
-    const songs = await playlist.filterSongs("album", album);
+    const songs = await playlist.filterSongs(new Filter("album", album));
     console.log(songs);
     setTable(songs);
 }
