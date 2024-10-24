@@ -188,6 +188,20 @@ async function setTable(songs){
     const table = document.getElementById("table");
     table.innerHTML = "";
     const tbody = document.createElement("tbody");
+    const thead = document.createElement("thead");
+    const headerRow = document.createElement("tr");
+    
+    const headers = ["Art", "Artist", "Album", "Title"];
+    headers.forEach(headerText => {
+        const th = document.createElement("th");
+        th.innerText = headerText;
+        headerRow.appendChild(th);
+    });
+    
+    thead.appendChild(headerRow);
+    table.appendChild(thead);
+    
+
     for(let i = 0; i < songs.length; i++){
         const song = songs[i];
         const tr = document.createElement("tr");
@@ -206,9 +220,9 @@ async function setTable(songs){
        
 
         const td1 = document.createElement("td");
-        td1.innerText = song.artist;
+        td1.innerText = song.album;
         const td2 = document.createElement("td");
-        td2.innerText = song.album;
+        td2.innerText = song.artist;
         const td3 = document.createElement("td");
         td3.innerText  = song.title;
         tr.appendChild(td1);
