@@ -177,6 +177,30 @@ async function submitForm(event){
     const playlist = new Playlist("Stream", "./assets/playlists/stream.txt");
     const songs = await playlist.multiFilterSongs(filters);
     console.log(songs);
+
+    // Sort the songs by album, cd number, then track number
+
+    songs.sort((a, b) => {
+        if(a.album < b.album){
+            return -1;
+        }
+        if(a.album > b.album){
+            return 1;
+        }
+        if(a.cdNumber < b.cdNumber){
+            return -1;
+        }
+        if(a.cdNumber > b.cdNumber){
+            return 1;
+        }
+        if(a.trackNumber < b.trackNumber){
+            return -1;
+        }
+        if(a.trackNumber > b.trackNumber){
+            return 1;
+        }
+        return 0;
+    });
     setTable(songs);
 }
 
@@ -191,7 +215,7 @@ async function setTable(songs){
     const thead = document.createElement("thead");
     const headerRow = document.createElement("tr");
     
-    const headers = ["Art", "Artist", "Album", "Title"];
+    const headers = ["Art", "Album", "Artist", "Title"];
     headers.forEach(headerText => {
         const th = document.createElement("th");
         th.innerText = headerText;
