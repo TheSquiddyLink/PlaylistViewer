@@ -249,12 +249,39 @@ async function setTable(songs){
         td2.innerText = song.artist;
         const td3 = document.createElement("td");
         td3.innerText  = song.title;
+        const td4 = document.createElement("td");
+        const btn = document.createElement("button");
+        btn.innerText = "Generate Request";
+        btn.addEventListener("click", generateRequest);
+        td4.appendChild(btn);
+ 
         tr.appendChild(td1);
         tr.appendChild(td2);
         tr.appendChild(td3);
+        tr.appendChild(td4);
         tbody.appendChild(tr);
     }
     table.appendChild(tbody);
 }
+
+/**
+ * @param {MouseEvent} event 
+ */
+async function generateRequest(event){
+    /**@type {HTMLTableRowElement} */
+    const tr = event.target.parentElement.parentElement;
+
+    const album = tr.children[1].innerText;
+    const artist = tr.children[2].innerText;
+    const title = tr.children[3].innerText;
+
+    const request = `${album}: ${artist} - ${title}`;
+
+    await navigator.clipboard.writeText(request);
+    alert("Request copied to clipboard!");
+    
+}
+
+
 main();
 
