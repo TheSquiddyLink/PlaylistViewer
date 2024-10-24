@@ -214,6 +214,10 @@ async function submitForm(event){
         }
         return 0;
     });
+    if(songs.length == 0){
+        alert("No songs found");
+        return;
+    }
     setTable(songs);
 }
 
