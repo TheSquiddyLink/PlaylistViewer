@@ -14,6 +14,27 @@ class Playlist{
         const lines = raw.split("\n");
         return lines[num];
     }
+
+    /**
+     * 
+     * @returns {Promise<Song[]>}
+     */
+
+    async getSongs(){
+        /** @type {Song[]} */
+        var songs = [];
+
+        const raw = await this.getRaw();
+        const lines = raw.split("\n");
+        for(let i = 0; i < lines.length; i++){
+            const line = lines[i];
+            const song = new Song(line);
+            songs.push(song);
+        }
+
+        return songs;
+
+    }
 }
 
 class Song {
@@ -64,11 +85,8 @@ class Song {
 
 async function main(){
     const StreamPlaylist = new Playlist("Stream", "./assets/playlists/stream.txt");
-    const StreamText = await StreamPlaylist.getRaw();
-    const line1 = await StreamPlaylist.getRawLine(0);
-    console.log(line1);
-    const song = new Song(line1);
-    console.log(song);
+    const songs = await StreamPlaylist.getSongs();
+    console.log(songs);
 }
 
 
