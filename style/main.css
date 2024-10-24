@@ -48,8 +48,6 @@ header {
 #table td {
     padding: 10px;
     border: 1px solid black;
-    text-align: c;
-    filter: drop-shadow(4px 4px 4px #0000009d);
 }
 #table img {
     vertical-align: middle;
