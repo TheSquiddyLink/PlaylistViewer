@@ -35,6 +35,12 @@ class Playlist{
         return songs;
 
     }
+
+    async filterSongs(key, value){
+        const songs = await this.getSongs();
+        const filtered = songs.filter(song => song[key] == value);
+        return filtered;
+    }
 }
 
 class Song {
@@ -85,8 +91,8 @@ class Song {
 
 async function main(){
     const StreamPlaylist = new Playlist("Stream", "./assets/playlists/stream.txt");
-    const songs = await StreamPlaylist.getSongs();
-    console.log(songs);
+    const filteredSongs = await StreamPlaylist.filterSongs("album", "Super Mario Galaxy");
+    console.log(filteredSongs);
 }
 
 
