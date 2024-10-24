@@ -2,3 +2,14 @@
     height: 50px;
     width: 50px;
 }
+
+#table {
+    border-collapse: collapse;
+}
+#table td {
+    padding: 5px;
+    border: 1px solid black;
+}
+#table img {
+    vertical-align: middle;
+}
