@@ -74,25 +74,14 @@ class Song {
      */
     constructor(rawLine){
         // Example:
-        // Nintendo - [Super Mario Galaxy CD1 #23] Daybreak - A New Dawn
+        // Wind Waker HD Sound Selection||Nintendo||Epilogue
         
         // Format
-        // <Artist> - [<Album> CD<cdNum> #<trackNum>] <Title>
-
-        // Notes:
-        // Album can contain spaces
-        // CD is optional
-
-        this.artist = rawLine.split(" - ")[0];
-        let albumData = this.substring(rawLine, "[", "]");
-        
-        const cdMatch = albumData.match(/CD\d+/);
-        this.cdNumber = cdMatch ? parseInt(cdMatch[0].substring(2)) : null;
-
-        const trackMatch = albumData.match(/#\d+/);
-        this.trackNumber = trackMatch ? parseInt(trackMatch[0].substring(1)) : null;
-        this.album = albumData.split(/(?:CD\d+|\#)/)[0].trim();
-        this.title = rawLine.split("] ")[1].replace(/\r/g, "");
+        // <album>||<artist>||<title>
+        const values =  rawLine.split("||");
+        this.album = values[0];
+        this.artist = values[1];
+        this.title = values[2];
     }
     /**
      * 
