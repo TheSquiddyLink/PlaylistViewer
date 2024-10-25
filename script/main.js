@@ -292,7 +292,7 @@ async function generateRequest(event){
     const artist = tr.children[2].innerText;
     const title = tr.children[3].innerText;
 
-    const request = `${album}: ${artist} - ${title}`;
+    const request = `${album}||${artist}||${title}`;
 
     await navigator.clipboard.writeText(request);
     alert("Request copied to clipboard!");
