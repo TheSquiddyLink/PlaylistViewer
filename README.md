@@ -1,5 +1,6 @@
 [![Twitch Social](https://img.shields.io/badge/Social-Twitch-6441a5)](https://www.twitch.tv/squibsland)
 [![YouTube Social](https://img.shields.io/badge/Social-YouTube-c4302b)](https://www.youtube.com/@SquibsLand)
+[![Website](https://img.shields.io/badge/Website-0A0)](https://thesquiddylink.github.io/PlaylistViewer/)
 
 # Playlist Viewer
 
