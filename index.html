@@ -16,17 +16,17 @@
     <main>
         <form id="filter">
             <div class="dropdown">
-                <input type="text" id="albumInput" placeholder="Album..." onkeyup="filterFunction('album')" onmouseenter="toggleDropdown('album')">
+                <input type="text" id="albumInput" placeholder="Album..." onkeyup="filterFunction('album')" onfocus="toggleDropdown('album')">
                 <div id="album" class="dropdown-content" onmouseleave="hideDropdown('album')">
                 </div>
             </div>            
             <div class="dropdown">
-                <input type="text" id="artistInput" placeholder="Artist..." onkeyup="filterFunction('artist')" onmouseenter="toggleDropdown('artist')">
+                <input type="text" id="artistInput" placeholder="Artist..." onkeyup="filterFunction('artist')" onfocus="toggleDropdown('artist')">
                 <div id="artist" class="dropdown-content" onmouseleave="hideDropdown('artist')">
                 </div>
             </div>
             <div class="dropdown">
-                <input type="text" id="titleInput" placeholder="Title..." onkeyup="filterFunction('title')" onmouseenter="toggleDropdown('title')">
+                <input type="text" id="titleInput" placeholder="Title..." onkeyup="filterFunction('title')" onfocus="toggleDropdown('title')">
                 <div id="title" class="dropdown-content" onmouseleave="hideDropdown('title')">
                 </div>
             </div>        </form>
