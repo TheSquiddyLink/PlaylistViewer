@@ -45,8 +45,9 @@ function handleDropdown(event, id){
 /**
  * 
  * @param {Array<Song>} songs 
+ * @param {function} func
  */
-function setDropdowns(songs){
+function setDropdowns(songs, func){
     const album = document.getElementById("album");
     const artist = document.getElementById("artist");
     const title = document.getElementById("title");
@@ -54,14 +55,15 @@ function setDropdowns(songs){
     const artistOptions = [...new Set(songs.map(song => song.artist))];
     const titleOptions = [...new Set(songs.map(song => song.title))];
 
-    createElements(album, albumOptions);
-    createElements(artist, artistOptions);
-    createElements(title, titleOptions);
+    createElements(album, albumOptions, func);
+    createElements(artist, artistOptions, func);
+    createElements(title, titleOptions, func);
 }   
-function createElements(container, options){
+function createElements(container, options, func){
     for(let i = 0; i < options.length; i++){
         const option = document.createElement("a");
         option.addEventListener("click", (e) => handleDropdown(e, container.id));
+        option.addEventListener("click", func);
         option.value = options[i];
         option.innerText = options[i];
         container.appendChild(option);

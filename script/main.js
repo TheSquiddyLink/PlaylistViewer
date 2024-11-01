@@ -78,9 +78,9 @@ class Song {
 async function submitForm(event){
     event.preventDefault();
     console.log(event.target);
-    const album = document.getElementById("album").value;
-    const artist = document.getElementById("artist").value;
-    const title = document.getElementById("title").value;
+    const album = document.getElementById("albumInput").value;
+    const artist = document.getElementById("artistInput").value;
+    const title = document.getElementById("titleInput").value;
 
     var filters = [];
     if(album){
@@ -236,8 +236,7 @@ async function main(){
     
     setTable(songs);
 
-    setDropdowns(songs);
+    setDropdowns(songs, submitForm);
 }
-
 
 main();
