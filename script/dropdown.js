@@ -31,14 +31,14 @@ function filterFunction(id) {
  * 
  * @param {Event} event 
  */
-function handleDropdown(event){
+function handleDropdown(event, id){
     event.preventDefault();
     event.stopPropagation();
     
     const target = event.target;
     const value = target.value;
 
-    const input = document.getElementById("albumInput");
+    const input = document.getElementById(id+"Input");
     input.value = value;
 }
 
@@ -61,7 +61,7 @@ function setDropdowns(songs){
 function createElements(container, options){
     for(let i = 0; i < options.length; i++){
         const option = document.createElement("a");
-        option.addEventListener("click", handleDropdown);
+        option.addEventListener("click", (e) => handleDropdown(e, container.id));
         option.value = options[i];
         option.innerText = options[i];
         container.appendChild(option);
