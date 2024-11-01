@@ -247,8 +247,19 @@ async function clearForm(event){
     submitForm(event);
 }
 
+async function randomSong(event){
+    event.preventDefault();
+    const json = (await fetch("./assets/playlists/stream.json")).json();
+    const len = (await json).length;
+    const randomSong = (await json)[Math.floor(Math.random() * len)];
+    console.log(randomSong);
+    const result = randomSong.id + "||Random Song!";
+    await navigator.clipboard.writeText(result);
+    alert("Request copied to clipboard! (Only ID)");
+}
 
 document.getElementById("filter").addEventListener("change", submitForm);
 document.getElementById("clear").addEventListener("click", clearForm);
+document.getElementById("random").addEventListener("click", randomSong);
 
 main();
