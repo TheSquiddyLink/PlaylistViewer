@@ -255,7 +255,7 @@ async function randomSong(event){
     console.log(randomSong);
     const result = randomSong.id + "||Random Song!";
     await navigator.clipboard.writeText(result);
-    alert("Request copied to clipboard! (Only ID)");
+    alert("Request copied to clipboard!");
 }
 
 document.getElementById("filter").addEventListener("change", submitForm);
