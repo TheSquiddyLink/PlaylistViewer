@@ -238,5 +238,17 @@ async function main(){
 
     setDropdowns(songs, submitForm);
 }
+
+async function clearForm(event){
+    event.preventDefault();
+    document.getElementById("albumInput").value = "";
+    document.getElementById("artistInput").value = "";
+    document.getElementById("titleInput").value = "";
+    submitForm(event);
+}
+
+
 document.getElementById("filter").addEventListener("change", submitForm);
+document.getElementById("clear").addEventListener("click", clearForm);
+
 main();
