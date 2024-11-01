@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SquibsLand Stream Playlist</title>
     <link rel="stylesheet" href="./style/main.css">
+    <link rel="stylesheet" href="./style/dropdown.css">
 </head>
 <body>
     <header>
@@ -13,7 +14,22 @@
         <p>Please note that the website is currently not complete</p>
     </header>
     <main>
-        <form id="filter"></form>
+        <form id="filter">
+            <div class="dropdown">
+                <input type="text" id="albumInput" placeholder="Album..." onkeyup="filterFunction('album')" onmouseenter="toggleDropdown('album')">
+                <div id="album" class="dropdown-content" onmouseleave="hideDropdown('album')">
+                </div>
+            </div>            
+            <div class="dropdown">
+                <input type="text" id="artistInput" placeholder="Artist..." onkeyup="filterFunction('artist')" onmouseenter="toggleDropdown('artist')">
+                <div id="artist" class="dropdown-content" onmouseleave="hideDropdown('artist')">
+                </div>
+            </div>
+            <div class="dropdown">
+                <input type="text" id="titleInput" placeholder="Title..." onkeyup="filterFunction('title')" onmouseenter="toggleDropdown('title')">
+                <div id="title" class="dropdown-content" onmouseleave="hideDropdown('title')">
+                </div>
+            </div>        </form>
         <div class="tableDiv">
             <table id="table"></table>
         </div>
@@ -21,5 +37,6 @@
     </main>
     
 </body>
+<script src="./script/dropdown.js"></script>
 <script src="./script/main.js"></script>
 </html>

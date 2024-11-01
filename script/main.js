@@ -71,51 +71,6 @@ class Song {
     }
 }
 
-async function main(){
-    createForm();
-}
-
-async function createForm(){
-    const form = document.getElementById("filter");
-
-    const albumInput = document.createElement("input");
-    albumInput.type = "text";
-    albumInput.placeholder = "Album";
-    albumInput.id = "album";
-    form.appendChild(albumInput);
-
-    const artistInput = document.createElement("input");
-    artistInput.type = "text";
-    artistInput.placeholder = "Artist";
-    artistInput.id = "artist";
-    form.appendChild(artistInput);
-
-    const titleInput = document.createElement("input");
-    titleInput.type = "text";
-    titleInput.placeholder = "Title";
-    titleInput.id = "title";
-    form.appendChild(titleInput);
-
-    const submitButton = document.createElement("button");
-    submitButton.innerText = "Submit";
-    submitButton.addEventListener("click", submitForm);
-    form.appendChild(submitButton);
-
-    const randomAmount = document.createElement("input");
-    randomAmount.type = "number";
-    randomAmount.value = 1;
-    randomAmount.min = 1;
-    randomAmount.max = 10;
-    randomAmount.id = "randomAmount";
-    form.appendChild(randomAmount);
-
-
-    const randomButton = document.createElement("button");
-    randomButton.innerText = "Random";
-    randomButton.addEventListener("click", randomSong);
-    form.appendChild(randomButton);
-}
-
 /**
  * 
  * @param {SubmitEvent} event 
@@ -274,5 +229,15 @@ async function randomSong(event) {
     }
     setTable(randomSongs);
 }
-main();
 
+async function main(){
+    const playlist = new Playlist("Stream", "./assets/playlists/stream.json");
+    const songs = await playlist.getSongs();
+    
+    setTable(songs);
+
+    setDropdowns(songs);
+}
+
+
+main();
