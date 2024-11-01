@@ -3,33 +3,20 @@ class Playlist{
         this.name = name;
         this.url = url;
     }
-    async getRaw(){
-        const streamPlaylistRaw = await fetch(this.url);
-        const streamPlaylistText = await streamPlaylistRaw.text();
-        return streamPlaylistText;
-    }
-
-    async getRawLine(num){
-        const raw = await this.getRaw();
-        const lines = raw.split("\n");
-        return lines[num];
-    }
 
     /**
      * 
      * @returns {Promise<Song[]>}
      */
-
     async getSongs(){
         /** @type {Song[]} */
         var songs = [];
 
-        const raw = await this.getRaw();
-        const lines = raw.split("\n");
-        for(let i = 0; i < lines.length; i++){
-            const line = lines[i];
-            const song = new Song(line);
-            songs.push(song);
+        const raw = await fetch(this.url);
+        const json = await raw.json();
+        
+        for(const song of json){
+            songs.push(new Song(song));
         }
 
         return songs;
@@ -72,33 +59,11 @@ class Song {
      * 
      * @param {string} rawLine 
      */
-    constructor(rawLine){
-        // Example:
-        // Wind Waker HD Sound Selection||Nintendo||Epilogue
-        
-        // Format
-        // <album>||<artist>||<title>
-        const values =  rawLine.split("||");
-        this.album = values[0];
-        this.artist = values[1];
-        this.title = values[2];
-    }
-    /**
-     * 
-     * @param {String} str 
-     * @param {String} char1 
-     * @param {String} char2 
-     * @returns {String}
-     */
-    substring(str, char1, char2){
-        const startIndex = str.indexOf(char1) + 1;
-        const endIndex = str.lastIndexOf(char2);
-        
-        if (startIndex === 0 || endIndex === -1 || startIndex >= endIndex) {
-            return ''; // Return an empty string if characters are not found or in the wrong order
-        }
-        
-        return str.slice(startIndex, endIndex);
+    constructor(obj){
+        this.title = obj.title;
+        this.artist = obj.artist;
+        this.album = obj.album;
+        this.id = obj.id;
     }
 
     get art(){
@@ -176,7 +141,7 @@ async function submitForm(event){
     console.log(filters);
 
 
-    const playlist = new Playlist("Stream", "./assets/playlists/stream.txt");
+    const playlist = new Playlist("Stream", "./assets/playlists/stream.json");
     const songs = await playlist.multiFilterSongs(filters);
     console.log(songs);
 
@@ -221,7 +186,7 @@ async function setTable(songs){
     const thead = document.createElement("thead");
     const headerRow = document.createElement("tr");
     
-    const headers = ["Art", "Album", "Artist", "Title"];
+    const headers = ["Art", "Album", "Artist", "Title", "ID"];
     headers.forEach(headerText => {
         const th = document.createElement("th");
         th.innerText = headerText;
@@ -256,15 +221,18 @@ async function setTable(songs){
         const td3 = document.createElement("td");
         td3.innerText  = song.title;
         const td4 = document.createElement("td");
+        td4.innerText = song.id;
+        const td5 = document.createElement("td");
         const btn = document.createElement("button");
         btn.innerText = "Generate Request";
         btn.addEventListener("click", generateRequest);
-        td4.appendChild(btn);
+        td5.appendChild(btn);
  
         tr.appendChild(td1);
         tr.appendChild(td2);
         tr.appendChild(td3);
         tr.appendChild(td4);
+        tr.appendChild(td5);
         tbody.appendChild(tr);
     }
     table.appendChild(tbody);
@@ -280,8 +248,9 @@ async function generateRequest(event){
     const album = tr.children[1].innerText;
     const artist = tr.children[2].innerText;
     const title = tr.children[3].innerText;
+    const id = tr.children[4].innerText;
 
-    const request = `${album}||${artist}||${title}`;
+    const request = `${id}||'${title}' by '${artist}' from '${album}'`;
 
     await navigator.clipboard.writeText(request);
     alert("Request copied to clipboard!");
