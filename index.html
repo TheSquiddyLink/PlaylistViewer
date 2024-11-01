@@ -16,20 +16,21 @@
     <main>
         <form id="filter">
             <div class="dropdown">
-                <input type="text" id="albumInput" placeholder="Album..." onkeyup="filterFunction('album')" onfocus="toggleDropdown('album')">
+                <input type="text" id="albumInput" placeholder="Album..." onkeyup="filterFunction('album')" onfocus="toggleDropdown('album')" autocomplete="off">
                 <div id="album" class="dropdown-content" onmouseleave="hideDropdown('album')">
                 </div>
             </div>            
             <div class="dropdown">
-                <input type="text" id="artistInput" placeholder="Artist..." onkeyup="filterFunction('artist')" onfocus="toggleDropdown('artist')">
+                <input type="text" id="artistInput" placeholder="Artist..." onkeyup="filterFunction('artist')" onfocus="toggleDropdown('artist')" autocomplete="off">
                 <div id="artist" class="dropdown-content" onmouseleave="hideDropdown('artist')">
                 </div>
             </div>
             <div class="dropdown">
-                <input type="text" id="titleInput" placeholder="Title..." onkeyup="filterFunction('title')" onfocus="toggleDropdown('title')">
+                <input type="text" id="titleInput" placeholder="Title..." onkeyup="filterFunction('title')" onfocus="toggleDropdown('title')" autocomplete="off">
                 <div id="title" class="dropdown-content" onmouseleave="hideDropdown('title')">
                 </div>
-            </div>        </form>
+            </div>        
+        </form>
         <div class="tableDiv">
             <table id="table"></table>
         </div>
