@@ -238,5 +238,5 @@ async function main(){
 
     setDropdowns(songs, submitForm);
 }
-
+document.getElementById("filter").addEventListener("change", submitForm);
 main();
