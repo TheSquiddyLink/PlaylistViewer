@@ -97,7 +97,8 @@ async function submitForm(event){
     console.log(filters);
 
     const playlistValue = document.getElementById("playlistInput").value;
-    const playlistPath = `./assets/playlists/${playlistValue.toLowerCase()}.json`
+    const random = Math.random().toFixed(5);
+    const playlistPath = `./assets/playlists/${playlistValue.toLowerCase()}.json?random=${random}`;
     const playlist = new Playlist(playlistValue, playlistPath);
     const songs = await playlist.multiFilterSongs(filters);
     console.log(songs);
