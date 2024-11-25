@@ -51,13 +51,17 @@ function setDropdowns(songs, func){
     const album = document.getElementById("album");
     const artist = document.getElementById("artist");
     const title = document.getElementById("title");
+    const playlist = document.getElementById("playlist");
+
     const albumOptions = [...new Set(songs.map(song => song.album))];
     const artistOptions = [...new Set(songs.map(song => song.artist))];
     const titleOptions = [...new Set(songs.map(song => song.title))];
+    const playlistOptions = ["Chill", "Stream"]
 
     createElements(album, albumOptions, func);
     createElements(artist, artistOptions, func);
     createElements(title, titleOptions, func);
+    createElements(playlist, playlistOptions, func);
 }   
 function createElements(container, options, func){
     for(let i = 0; i < options.length; i++){

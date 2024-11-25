@@ -16,6 +16,11 @@
     <main>
         <form id="filter">
             <div class="dropdown">
+                <input type="text" id="playlistInput" placeholder="Playlist..." onkeyup="filterFunction('playlist')" onfocus="toggleDropdown('playlist')" autocomplete="off">
+                <div id="playlist" class="dropdown-content" onmouseleave="hideDropdown('playlist')">
+                </div>
+            </div>     
+            <div class="dropdown">
                 <input type="text" id="albumInput" placeholder="Album..." onkeyup="filterFunction('album')" onfocus="toggleDropdown('album')" autocomplete="off">
                 <div id="album" class="dropdown-content" onmouseleave="hideDropdown('album')">
                 </div>

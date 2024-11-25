@@ -64,6 +64,7 @@ class Song {
         this.artist = obj.artist;
         this.album = obj.album;
         this.id = obj.id;
+        this.playlistId = obj.playlistId;
     }
 
     get art(){
@@ -95,8 +96,9 @@ async function submitForm(event){
 
     console.log(filters);
 
-
-    const playlist = new Playlist("Stream", "./assets/playlists/stream.json");
+    const playlistValue = document.getElementById("playlistInput").value;
+    const playlistPath = `./assets/playlists/${playlistValue.toLowerCase()}.json`
+    const playlist = new Playlist(playlistValue, playlistPath);
     const songs = await playlist.multiFilterSongs(filters);
     console.log(songs);
 
@@ -204,8 +206,9 @@ async function generateRequest(event){
     const artist = tr.children[2].innerText;
     const title = tr.children[3].innerText;
     const id = tr.children[4].innerText;
+    const playlist = document.getElementById("playlistInput").value;
 
-    const request = `${id}||'${title}' by '${artist}' from '${album}'`;
+    const request = `${playlist.toLowerCase()}-${id}||'${title}' by '${artist}' from '${album}'`;
 
     await navigator.clipboard.writeText(request);
     alert("Request copied to clipboard!");
