@@ -62,6 +62,9 @@ function setDropdowns(songs, func){
     createElements(artist, artistOptions, func);
     createElements(title, titleOptions, func);
     createElements(playlist, playlistOptions, func);
+
+    playlist.value = "Stream";
+    document.getElementById("playlistInput").value = "Stream";
 }   
 function createElements(container, options, func){
     for(let i = 0; i < options.length; i++){
