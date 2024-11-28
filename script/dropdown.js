@@ -56,7 +56,7 @@ function setDropdowns(songs, func){
     const albumOptions = [...new Set(songs.map(song => song.album))];
     const artistOptions = [...new Set(songs.map(song => song.artist))];
     const titleOptions = [...new Set(songs.map(song => song.title))];
-    const playlistOptions = ["Chill", "Stream"]
+    const playlistOptions = ["Chill", "Stream", "All"]
 
     createElements(album, albumOptions, func);
     createElements(artist, artistOptions, func);
