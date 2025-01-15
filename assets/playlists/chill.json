@@ -1,394 +1,737 @@
 [
     {
-        "title": "Credits Pt.1",
+        "title": "Animal Crossing (Fall)",
         "artist": "Nintendo",
-        "album": "Mario Kart Wii",
+        "album": "Mario Kart 8 Deluxe",
         "id": 1,
         "playlistId": "chill"
     },
     {
-        "title": "Origin of Order",
-        "artist": "Order Sector",
-        "album": "Ordertune",
+        "title": "Squeaky Clean Sprint‎‎",
+        "artist": "Nintendo",
+        "album": "Mario Kart 8 Deluxe",
         "id": 2,
         "playlistId": "chill"
     },
     {
-        "title": "Color Pulse 2024",
-        "artist": "Off the Hook",
-        "album": "Ordertune",
+        "title": "Wii Daisy Circuit‎‎",
+        "artist": "Nintendo",
+        "album": "Mario Kart 8 Deluxe",
         "id": 3,
         "playlistId": "chill"
     },
     {
-        "title": "Lookin' Fresh (Hotlantis)",
-        "artist": "DJ Lee Fish",
-        "album": "Ordertune",
+        "title": "Main Menu",
+        "artist": "Nintendo",
+        "album": "Mario Kart 8 Deluxe",
         "id": 4,
         "playlistId": "chill"
     },
     {
-        "title": "New You (Hotlantis)",
-        "artist": "DJ Real Sole",
-        "album": "Ordertune",
+        "title": "Wi-Fi/Online Play Menu",
+        "artist": "Nintendo",
+        "album": "Mario Kart 8 Deluxe",
         "id": 5,
         "playlistId": "chill"
     },
     {
-        "title": "Character Creation",
-        "artist": "Mahi-Mahi Resort Jellyfish Band",
-        "album": "Splatune 3",
+        "title": "Animal Crossing Results",
+        "artist": "Nintendo",
+        "album": "Mario Kart 8 Deluxe",
         "id": 6,
         "playlistId": "chill"
     },
     {
-        "title": "Cap'n Cuttlefish Theme (Low Tide Remix)",
-        "artist": "Squid Sisters",
-        "album": "Splatune 3",
+        "title": "Main Menu",
+        "artist": "Nintendo",
+        "album": "Mario Kart Wii",
         "id": 7,
         "playlistId": "chill"
     },
     {
-        "title": "The Crater",
+        "title": "Credits Pt.1",
         "artist": "Nintendo",
-        "album": "Splatune 3",
+        "album": "Mario Kart Wii",
         "id": 8,
-        "playlistId": "chill"
-    },
-    {
-        "title": "Sandcastles",
-        "artist": "Stars in the Deep",
-        "album": "Splatune 3",
-        "id": 9,
-        "playlistId": "chill"
-    },
-    {
-        "title": "Sudden Depth",
-        "artist": "Mimicry",
-        "album": "Splatune 3",
-        "id": 10,
-        "playlistId": "chill"
-    },
-    {
-        "title": "Two Shadows in the Sun",
-        "artist": "Wash Out",
-        "album": "Splatune 3",
-        "id": 11,
-        "playlistId": "chill"
-    },
-    {
-        "title": "Dead Sea",
-        "artist": "Firefly",
-        "album": "Splatune 3",
-        "id": 12,
-        "playlistId": "chill"
-    },
-    {
-        "title": "Whirlpool Tune",
-        "artist": "On the Clock",
-        "album": "Splatune 3",
-        "id": 13,
-        "playlistId": "chill"
-    },
-    {
-        "title": "Hyper Diver",
-        "artist": "Anxiety Society",
-        "album": "Splatune 3",
-        "id": 14,
-        "playlistId": "chill"
-    },
-    {
-        "title": "Sunken Scroll",
-        "artist": "Nintendo",
-        "album": "Splatune",
-        "id": 15,
-        "playlistId": "chill"
-    },
-    {
-        "title": "Piranha Plant's Lullaby",
-        "artist": "Nintendo",
-        "album": "Super Mario 64 - Remastered",
-        "id": 16,
-        "playlistId": "chill"
-    },
-    {
-        "title": "Dire, Dire Docks",
-        "artist": "Nintendo",
-        "album": "Super Mario 64 - Remastered",
-        "id": 17,
-        "playlistId": "chill"
-    },
-    {
-        "title": "Dire, Dire Docks (Underwater)",
-        "artist": "Nintendo",
-        "album": "Super Mario 64 - Remastered",
-        "id": 18,
-        "playlistId": "chill"
-    },
-    {
-        "title": "Dire, Dire Docks (Cave)",
-        "artist": "Nintendo",
-        "album": "Super Mario 64 - Remastered",
-        "id": 19,
-        "playlistId": "chill"
-    },
-    {
-        "title": "Slimy Spring Galaxy",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 20,
-        "playlistId": "chill"
-    },
-    {
-        "title": "Credits",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 21,
-        "playlistId": "chill"
-    },
-    {
-        "title": "#12.2 awakened",
-        "artist": "Dedf1sh",
-        "album": "Ordertune",
-        "id": 22,
-        "playlistId": "chill"
-    },
-    {
-        "title": "A Chance to Grab a Star!",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 23,
-        "playlistId": "chill"
-    },
-    {
-        "title": "Pipe Interior",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 24,
-        "playlistId": "chill"
-    },
-    {
-        "title": "Drip Drop Galaxy",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 25,
-        "playlistId": "chill"
-    },
-    {
-        "title": "Another World Stage",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 26,
-        "playlistId": "chill"
-    },
-    {
-        "title": "Settings - Title Screen",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 27,
-        "playlistId": "chill"
-    },
-    {
-        "title": "Main Menu Settings",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 28,
-        "playlistId": "chill"
-    },
-    {
-        "title": "Pick a Mii!",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 29,
-        "playlistId": "chill"
-    },
-    {
-        "title": "Tutorial",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 30,
-        "playlistId": "chill"
-    },
-    {
-        "title": "Wakeboarding - Camera Overview",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 31,
-        "playlistId": "chill"
-    },
-    {
-        "title": "Wakeboarding - Change",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 32,
-        "playlistId": "chill"
-    },
-    {
-        "title": "Wakeboarding - Results",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 33,
-        "playlistId": "chill"
-    },
-    {
-        "title": "Archery - Change",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 34,
-        "playlistId": "chill"
-    },
-    {
-        "title": "Bowling - Standard Game",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 35,
-        "playlistId": "chill"
-    },
-    {
-        "title": "Bowling - Spin Control",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 36,
-        "playlistId": "chill"
-    },
-    {
-        "title": "Bowling - Results",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 37,
-        "playlistId": "chill"
-    },
-    {
-        "title": "Skydiving - Plane Radio",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 38,
-        "playlistId": "chill"
-    },
-    {
-        "title": "Air Sports - Cabana Lagoon at Day",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 39,
-        "playlistId": "chill"
-    },
-    {
-        "title": "Air Sports - Cabana Lagoon at Night",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 40,
-        "playlistId": "chill"
-    },
-    {
-        "title": "Menu Select",
-        "artist": "Nintendo",
-        "album": "Wind Waker HD Sound Selection",
-        "id": 41,
-        "playlistId": "chill"
-    },
-    {
-        "title": "The Legendary Hero",
-        "artist": "Nintendo",
-        "album": "Wind Waker HD Sound Selection",
-        "id": 42,
-        "playlistId": "chill"
-    },
-    {
-        "title": "#12 awake",
-        "artist": "Dedf1sh",
-        "album": "Octotune",
-        "id": 43,
-        "playlistId": "chill"
-    },
-    {
-        "title": "Space Junk Road",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 44,
-        "playlistId": "chill"
-    },
-    {
-        "title": "Forest Haven",
-        "artist": "Nintendo",
-        "album": "Wind Waker HD Sound Selection",
-        "id": 45,
-        "playlistId": "chill"
-    },
-    {
-        "title": "Lake Lamode Above Ground",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 46,
-        "playlistId": "chill"
-    },
-    {
-        "title": "Maritime Memory",
-        "artist": "Squid Sisters",
-        "album": "Splatune",
-        "id": 47,
-        "playlistId": "chill"
-    },
-    {
-        "title": "World 5",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 48,
-        "playlistId": "chill"
-    },
-    {
-        "title": "Wave Goodbye",
-        "artist": "Squid Sisters",
-        "album": "Splatune 3",
-        "id": 49,
-        "playlistId": "chill"
-    },
-    {
-        "title": "Poolside Rest",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 50,
-        "playlistId": "chill"
-    },
-    {
-        "title": "Starship Mario 1",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 51,
         "playlistId": "chill"
     },
     {
         "title": "Credits Pt.2",
         "artist": "Nintendo",
         "album": "Mario Kart Wii",
-        "id": 52,
+        "id": 9,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Waiting To Join & Ghost Replay",
+        "artist": "Nintendo",
+        "album": "Mario Kart Wii",
+        "id": 10,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Setup and Kart Select",
+        "artist": "Nintendo",
+        "album": "Mario Kart Wii",
+        "id": 11,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Mario Kart Channel",
+        "artist": "Nintendo",
+        "album": "Mario Kart Wii",
+        "id": 12,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Nintendo WFC",
+        "artist": "Nintendo",
+        "album": "Mario Kart Wii",
+        "id": 13,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Cap'n Cuttlefish's Theme (Octo) ~ Player Editor",
+        "artist": "Nintendo",
+        "album": "Octotune",
+        "id": 14,
+        "playlistId": "chill"
+    },
+    {
+        "title": "#0 shell",
+        "artist": "Dedf1sh",
+        "album": "Octotune",
+        "id": 15,
+        "playlistId": "chill"
+    },
+    {
+        "title": "#8 regret",
+        "artist": "Dedf1sh",
+        "album": "Octotune",
+        "id": 16,
+        "playlistId": "chill"
+    },
+    {
+        "title": "#12 awake",
+        "artist": "Dedf1sh",
+        "album": "Octotune",
+        "id": 17,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Into the Light",
+        "artist": "Off the Hook",
+        "album": "Octotune",
+        "id": 18,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Fresh Start",
+        "artist": "Squid Sisters",
+        "album": "Octotune",
+        "id": 19,
         "playlistId": "chill"
     },
     {
         "title": "#0.1 style",
         "artist": "Dedf1sh",
         "album": "Ordertune",
-        "id": 53,
+        "id": 20,
+        "playlistId": "chill"
+    },
+    {
+        "title": "#12.2 awakened",
+        "artist": "Dedf1sh",
+        "album": "Ordertune",
+        "id": 21,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Origin of Order",
+        "artist": "Order Sector",
+        "album": "Ordertune",
+        "id": 22,
         "playlistId": "chill"
     },
     {
         "title": "rout1nes",
         "artist": "Free Association",
         "album": "Ordertune",
-        "id": 54,
+        "id": 23,
+        "playlistId": "chill"
+    },
+    {
+        "title": "#47 onward",
+        "artist": "Dedf1sh feat. Off the Hook",
+        "album": "Ordertune",
+        "id": 24,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Color Pulse 2024",
+        "artist": "Off the Hook",
+        "album": "Ordertune",
+        "id": 25,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Lookin' Fresh (Hotlantis)",
+        "artist": "DJ Lee Fish",
+        "album": "Ordertune",
+        "id": 26,
+        "playlistId": "chill"
+    },
+    {
+        "title": "New You (Hotlantis)",
+        "artist": "DJ Real Sole",
+        "album": "Ordertune",
+        "id": 27,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Inkopolis Tutorial",
+        "artist": "Nintendo",
+        "album": "Splatune 2",
+        "id": 28,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Low Tide",
+        "artist": "Nintendo",
+        "album": "Splatune 2",
+        "id": 29,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Character Creation",
+        "artist": "Mahi-Mahi Resort Jellyfish Band",
+        "album": "Splatune 3",
+        "id": 30,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Daybreaker Anthem",
+        "artist": "Deep Cut",
+        "album": "Splatune 3",
+        "id": 31,
         "playlistId": "chill"
     },
     {
         "title": "Bait & Click (Mutation)",
         "artist": "ω-3",
         "album": "Splatune 3",
+        "id": 32,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Cap'n Cuttlefish Theme (Low Tide Remix)",
+        "artist": "Squid Sisters",
+        "album": "Splatune 3",
+        "id": 33,
+        "playlistId": "chill"
+    },
+    {
+        "title": "The Crater",
+        "artist": "Nintendo",
+        "album": "Splatune 3",
+        "id": 34,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Sandcastles",
+        "artist": "Stars in the Deep",
+        "album": "Splatune 3",
+        "id": 35,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Sudden Depth",
+        "artist": "Mimicry",
+        "album": "Splatune 3",
+        "id": 36,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Two Shadows in the Sun",
+        "artist": "Wash Out",
+        "album": "Splatune 3",
+        "id": 37,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Dead Sea",
+        "artist": "Firefly",
+        "album": "Splatune 3",
+        "id": 38,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Whirlpool Tune",
+        "artist": "On the Clock",
+        "album": "Splatune 3",
+        "id": 39,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Hyper Diver",
+        "artist": "Anxiety Society",
+        "album": "Splatune 3",
+        "id": 40,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Squid Sisters Introduction",
+        "artist": "Squid Sisters",
+        "album": "Splatune 3",
+        "id": 41,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Wave Goodbye",
+        "artist": "Squid Sisters",
+        "album": "Splatune 3",
+        "id": 42,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Cap'n Cuttlefish's Theme",
+        "artist": "Nintendo",
+        "album": "Splatune",
+        "id": 43,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Octo Valley",
+        "artist": "Turquoise October",
+        "album": "Splatune",
+        "id": 44,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Maritime Memory",
+        "artist": "Squid Sisters",
+        "album": "Splatune",
+        "id": 45,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Sunken Scroll",
+        "artist": "Nintendo",
+        "album": "Splatune",
+        "id": 46,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Tide Goes Out",
+        "artist": "Marie",
+        "album": "Splatune",
+        "id": 47,
+        "playlistId": "chill"
+    },
+    {
+        "title": "File Select",
+        "artist": "Nintendo",
+        "album": "Super Mario 64 - Remastered",
+        "id": 48,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Piranha Plant's Lullaby",
+        "artist": "Nintendo",
+        "album": "Super Mario 64 - Remastered",
+        "id": 49,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Piranha Plant's Lullaby (Piano)",
+        "artist": "Nintendo",
+        "album": "Super Mario 64 - Remastered",
+        "id": 50,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Dire, Dire Docks",
+        "artist": "Nintendo",
+        "album": "Super Mario 64 - Remastered",
+        "id": 51,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Dire, Dire Docks (Underwater)",
+        "artist": "Nintendo",
+        "album": "Super Mario 64 - Remastered",
+        "id": 52,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Dire, Dire Docks (Cave)",
+        "artist": "Nintendo",
+        "album": "Super Mario 64 - Remastered",
+        "id": 53,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Unknown Star",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy 2",
+        "id": 54,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Starship Mario 1",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy 2",
         "id": 55,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Puzzle Plank Galaxy",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy 2",
+        "id": 56,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Wild Glide Galaxy",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy 2",
+        "id": 57,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Cosmic Cove Galaxy",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy 2",
+        "id": 58,
+        "playlistId": "chill"
+    },
+    {
+        "title": "World 4",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy 2",
+        "id": 59,
+        "playlistId": "chill"
+    },
+    {
+        "title": "World 5",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy 2",
+        "id": 60,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Slimy Spring Galaxy",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy 2",
+        "id": 61,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Credits",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy 2",
+        "id": 62,
+        "playlistId": "chill"
+    },
+    {
+        "title": "The Luma and the Hat",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy 2",
+        "id": 63,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Green Star",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy 2",
+        "id": 64,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Rosalina in the Observatory 1",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 65,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Space Junk Road",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 66,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Rosalina in the Observatory 2",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 67,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Gusty Garden Galaxy",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 68,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Rosalina in the Observatory 3",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 69,
         "playlistId": "chill"
     },
     {
         "title": "File Select",
         "artist": "Nintendo",
         "album": "Super Mario Galaxy",
-        "id": 56,
+        "id": 70,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Luma",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 71,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Gateway Galaxy",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 72,
+        "playlistId": "chill"
+    },
+    {
+        "title": "A Chance to Grab a Star!",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 73,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Space Fantasy",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 74,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Beach Bowl Galaxy - Undersea",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 75,
+        "playlistId": "chill"
+    },
+    {
+        "title": "The Library",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 76,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Pipe Interior",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 77,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Drip Drop Galaxy",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 78,
+        "playlistId": "chill"
+    },
+    {
+        "title": "A Wish",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 79,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Family",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 80,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Lake Lamode Underwater Passage",
+        "artist": "Nintendo",
+        "album": "Super Mario Odyssey",
+        "id": 81,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Lake Lamode Above Ground",
+        "artist": "Nintendo",
+        "album": "Super Mario Odyssey",
+        "id": 82,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Poolside Rest",
+        "artist": "Nintendo",
+        "album": "Super Mario Odyssey",
+        "id": 83,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Another World Stage",
+        "artist": "Nintendo",
+        "album": "Super Mario Odyssey",
+        "id": 84,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Jump Up, Super Star! Music Box Version",
+        "artist": "Nintendo",
+        "album": "Super Mario Odyssey",
+        "id": 85,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Lullaby Until the End (Fossil Falls Music Box Version)",
+        "artist": "Nintendo",
+        "album": "Super Mario Odyssey",
+        "id": 86,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Settings - First Time",
+        "artist": "Nintendo",
+        "album": "Wii Sports Resort",
+        "id": 87,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Settings - Title Screen",
+        "artist": "Nintendo",
+        "album": "Wii Sports Resort",
+        "id": 88,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Main Menu Settings",
+        "artist": "Nintendo",
+        "album": "Wii Sports Resort",
+        "id": 89,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Pick a Mii!",
+        "artist": "Nintendo",
+        "album": "Wii Sports Resort",
+        "id": 90,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Tutorial",
+        "artist": "Nintendo",
+        "album": "Wii Sports Resort",
+        "id": 91,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Wakeboarding - Camera Overview",
+        "artist": "Nintendo",
+        "album": "Wii Sports Resort",
+        "id": 92,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Wakeboarding - Change",
+        "artist": "Nintendo",
+        "album": "Wii Sports Resort",
+        "id": 93,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Wakeboarding - Results",
+        "artist": "Nintendo",
+        "album": "Wii Sports Resort",
+        "id": 94,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Archery - Change",
+        "artist": "Nintendo",
+        "album": "Wii Sports Resort",
+        "id": 95,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Golf - Results",
+        "artist": "Nintendo",
+        "album": "Wii Sports Resort",
+        "id": 96,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Bowling - Standard Game",
+        "artist": "Nintendo",
+        "album": "Wii Sports Resort",
+        "id": 97,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Bowling - Spin Control",
+        "artist": "Nintendo",
+        "album": "Wii Sports Resort",
+        "id": 98,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Bowling - Results",
+        "artist": "Nintendo",
+        "album": "Wii Sports Resort",
+        "id": 99,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Skydiving - Plane Radio",
+        "artist": "Nintendo",
+        "album": "Wii Sports Resort",
+        "id": 100,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Air Sports - Cabana Lagoon at Day",
+        "artist": "Nintendo",
+        "album": "Wii Sports Resort",
+        "id": 101,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Air Sports - Cabana Lagoon at Night",
+        "artist": "Nintendo",
+        "album": "Wii Sports Resort",
+        "id": 102,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Menu Select",
+        "artist": "Nintendo",
+        "album": "Wind Waker HD Sound Selection",
+        "id": 103,
+        "playlistId": "chill"
+    },
+    {
+        "title": "The Legendary Hero",
+        "artist": "Nintendo",
+        "album": "Wind Waker HD Sound Selection",
+        "id": 104,
+        "playlistId": "chill"
+    },
+    {
+        "title": "Forest Haven",
+        "artist": "Nintendo",
+        "album": "Wind Waker HD Sound Selection",
+        "id": 105,
         "playlistId": "chill"
     }
 ]

@@ -1,5007 +1,3131 @@
 [
     {
-        "title": "Title",
+        "title": "Water Park",
         "artist": "Nintendo",
-        "album": "Mario Kart Wii",
+        "album": "Mario Kart 8 Deluxe",
         "id": 1,
         "playlistId": "stream"
     },
     {
-        "title": "Main Menu",
+        "title": "Sweet Sweet Canyon",
         "artist": "Nintendo",
-        "album": "Mario Kart Wii",
+        "album": "Mario Kart 8 Deluxe",
         "id": 2,
         "playlistId": "stream"
     },
     {
-        "title": "Mario Circuit / Luigi Circuit",
+        "title": "Mario Circuit",
         "artist": "Nintendo",
-        "album": "Mario Kart Wii",
+        "album": "Mario Kart 8 Deluxe",
         "id": 3,
         "playlistId": "stream"
     },
     {
-        "title": "Moo Moo Meadows",
+        "title": "Toad Harbor",
         "artist": "Nintendo",
-        "album": "Mario Kart Wii",
+        "album": "Mario Kart 8 Deluxe",
         "id": 4,
         "playlistId": "stream"
     },
     {
-        "title": "Mushroom Gorge",
+        "title": "Shy Guy Falls",
         "artist": "Nintendo",
-        "album": "Mario Kart Wii",
+        "album": "Mario Kart 8 Deluxe",
         "id": 5,
         "playlistId": "stream"
     },
     {
-        "title": "Toad's Factory",
+        "title": "Sunshine Airport",
         "artist": "Nintendo",
-        "album": "Mario Kart Wii",
+        "album": "Mario Kart 8 Deluxe",
         "id": 6,
         "playlistId": "stream"
     },
     {
-        "title": "Coconut Mall",
+        "title": "Dolphin Shoals",
         "artist": "Nintendo",
-        "album": "Mario Kart Wii",
+        "album": "Mario Kart 8 Deluxe",
         "id": 7,
         "playlistId": "stream"
     },
     {
-        "title": "DK Summit",
+        "title": "Dolphin Shoals (In the Sea ~ Undersea)",
         "artist": "Nintendo",
-        "album": "Mario Kart Wii",
+        "album": "Mario Kart 8 Deluxe",
         "id": 8,
         "playlistId": "stream"
     },
     {
-        "title": "Wario's Gold Mine",
+        "title": "Mount Wario",
         "artist": "Nintendo",
-        "album": "Mario Kart Wii",
+        "album": "Mario Kart 8 Deluxe",
         "id": 9,
         "playlistId": "stream"
     },
     {
-        "title": "Daisy Circuit",
+        "title": "Mount Wario (1st Place)",
         "artist": "Nintendo",
-        "album": "Mario Kart Wii",
+        "album": "Mario Kart 8 Deluxe",
         "id": 10,
         "playlistId": "stream"
     },
     {
-        "title": "Koopa Cape",
+        "title": "Cloudtop Cruise",
         "artist": "Nintendo",
-        "album": "Mario Kart Wii",
+        "album": "Mario Kart 8 Deluxe",
         "id": 11,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Maple Treeway",
-        "artist": "Nintendo",
-        "album": "Mario Kart Wii",
-        "id": 12,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Grumble Volcano",
-        "artist": "Nintendo",
-        "album": "Mario Kart Wii",
-        "id": 13,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Dry Dry Ruins",
-        "artist": "Nintendo",
-        "album": "Mario Kart Wii",
-        "id": 14,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Moonview Highway",
-        "artist": "Nintendo",
-        "album": "Mario Kart Wii",
-        "id": 15,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Bowser's Castle",
-        "artist": "Nintendo",
-        "album": "Mario Kart Wii",
-        "id": 16,
         "playlistId": "stream"
     },
     {
         "title": "Rainbow Road",
         "artist": "Nintendo",
-        "album": "Mario Kart Wii",
+        "album": "Mario Kart 8 Deluxe",
+        "id": 12,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Wii Moo Moo Meadows",
+        "artist": "Nintendo",
+        "album": "Mario Kart 8 Deluxe",
+        "id": 13,
+        "playlistId": "stream"
+    },
+    {
+        "title": "GBA Mario Circuit",
+        "artist": "Nintendo",
+        "album": "Mario Kart 8 Deluxe",
+        "id": 14,
+        "playlistId": "stream"
+    },
+    {
+        "title": "DS Wario Stadium",
+        "artist": "Nintendo",
+        "album": "Mario Kart 8 Deluxe",
+        "id": 15,
+        "playlistId": "stream"
+    },
+    {
+        "title": "N64 Rainbow Road",
+        "artist": "Nintendo",
+        "album": "Mario Kart 8 Deluxe",
+        "id": 16,
+        "playlistId": "stream"
+    },
+    {
+        "title": "GCN Yoshi Circuit",
+        "artist": "Nintendo",
+        "album": "Mario Kart 8 Deluxe",
         "id": 17,
         "playlistId": "stream"
     },
     {
-        "title": "Trophy Presentations",
+        "title": "Hyrule Circuit",
         "artist": "Nintendo",
-        "album": "Mario Kart Wii",
+        "album": "Mario Kart 8 Deluxe",
         "id": 18,
         "playlistId": "stream"
     },
     {
-        "title": "Credits Pt.1",
+        "title": "Animal Crossing (Spring)",
         "artist": "Nintendo",
-        "album": "Mario Kart Wii",
+        "album": "Mario Kart 8 Deluxe",
         "id": 19,
         "playlistId": "stream"
     },
     {
-        "title": "Credits Pt.2",
+        "title": "Animal Crossing (Summer)",
         "artist": "Nintendo",
-        "album": "Mario Kart Wii",
+        "album": "Mario Kart 8 Deluxe",
         "id": 20,
         "playlistId": "stream"
     },
     {
-        "title": "Block Plaza",
+        "title": "DS Shroom Ridge‎‎",
         "artist": "Nintendo",
-        "album": "Mario Kart Wii",
+        "album": "Mario Kart 8 Deluxe",
         "id": 21,
         "playlistId": "stream"
     },
     {
-        "title": "Delfino Pier",
+        "title": "Tour Sydney Sprint‎‎",
         "artist": "Nintendo",
-        "album": "Mario Kart Wii",
+        "album": "Mario Kart 8 Deluxe",
         "id": 22,
         "playlistId": "stream"
     },
     {
-        "title": "Funky Stadium",
+        "title": "Wii Mushroom Gorge‎‎",
         "artist": "Nintendo",
-        "album": "Mario Kart Wii",
+        "album": "Mario Kart 8 Deluxe",
         "id": 23,
         "playlistId": "stream"
     },
     {
-        "title": "Chain Chomp Roulette",
+        "title": "Wii Maple Treeway‎‎",
         "artist": "Nintendo",
-        "album": "Mario Kart Wii",
+        "album": "Mario Kart 8 Deluxe",
         "id": 24,
         "playlistId": "stream"
     },
     {
-        "title": "Thwomp Desert",
+        "title": "Wii Coconut Mall‎‎",
         "artist": "Nintendo",
-        "album": "Mario Kart Wii",
+        "album": "Mario Kart 8 Deluxe",
         "id": 25,
         "playlistId": "stream"
     },
     {
-        "title": "GCN Peach Beach",
+        "title": "3DS Rainbow Road",
         "artist": "Nintendo",
-        "album": "Mario Kart Wii",
+        "album": "Mario Kart 8 Deluxe",
         "id": 26,
         "playlistId": "stream"
     },
     {
-        "title": "DS Yoshi Falls",
+        "title": "Wii DK Summit‎‎",
         "artist": "Nintendo",
-        "album": "Mario Kart Wii",
+        "album": "Mario Kart 8 Deluxe",
         "id": 27,
         "playlistId": "stream"
     },
     {
-        "title": "SNES Ghost Valley 2",
+        "title": "Yoshi's Island",
         "artist": "Nintendo",
-        "album": "Mario Kart Wii",
+        "album": "Mario Kart 8 Deluxe",
         "id": 28,
         "playlistId": "stream"
     },
     {
-        "title": "N64 Mario Raceway",
+        "title": "Tour Singapore Speedway",
         "artist": "Nintendo",
-        "album": "Mario Kart Wii",
+        "album": "Mario Kart 8 Deluxe",
         "id": 29,
         "playlistId": "stream"
     },
     {
-        "title": "N64 Sherbet Land",
+        "title": "Squeaky Clean Sprint‎‎",
         "artist": "Nintendo",
-        "album": "Mario Kart Wii",
+        "album": "Mario Kart 8 Deluxe",
         "id": 30,
         "playlistId": "stream"
     },
     {
-        "title": "GBA Shy Guy Beach",
+        "title": "Wii Koopa Cape",
         "artist": "Nintendo",
-        "album": "Mario Kart Wii",
+        "album": "Mario Kart 8 Deluxe",
         "id": 31,
         "playlistId": "stream"
     },
     {
-        "title": "DS Delfino Square",
+        "title": "Wii Daisy Circuit‎‎",
         "artist": "Nintendo",
-        "album": "Mario Kart Wii",
+        "album": "Mario Kart 8 Deluxe",
         "id": 32,
         "playlistId": "stream"
     },
     {
-        "title": "GCN Waluigi Stadium",
+        "title": "Wii Rainbow Road‎‎",
         "artist": "Nintendo",
-        "album": "Mario Kart Wii",
+        "album": "Mario Kart 8 Deluxe",
         "id": 33,
         "playlistId": "stream"
     },
     {
-        "title": "DS Desert Hills",
+        "title": "Urchin Underpass \"Splattack!\"",
         "artist": "Nintendo",
-        "album": "Mario Kart Wii",
+        "album": "Mario Kart 8 Deluxe",
         "id": 34,
         "playlistId": "stream"
     },
     {
-        "title": "GBA Bowser Castle 3",
+        "title": "Urchin Underpass \"Now or Never!\"",
         "artist": "Nintendo",
-        "album": "Mario Kart Wii",
+        "album": "Mario Kart 8 Deluxe",
         "id": 35,
         "playlistId": "stream"
     },
     {
-        "title": "N64 DK's Jungle Parkway",
+        "title": "Title",
         "artist": "Nintendo",
         "album": "Mario Kart Wii",
         "id": 36,
         "playlistId": "stream"
     },
     {
-        "title": "GCN Mario Circuit",
+        "title": "Main Menu",
         "artist": "Nintendo",
         "album": "Mario Kart Wii",
         "id": 37,
         "playlistId": "stream"
     },
     {
-        "title": "SNES Mario Circuit 3",
+        "title": "Mario Circuit / Luigi Circuit",
         "artist": "Nintendo",
         "album": "Mario Kart Wii",
         "id": 38,
         "playlistId": "stream"
     },
     {
-        "title": "DS Peach Gardens",
+        "title": "Moo Moo Meadows",
         "artist": "Nintendo",
         "album": "Mario Kart Wii",
         "id": 39,
         "playlistId": "stream"
     },
     {
-        "title": "GCN DK Mountain",
+        "title": "Mushroom Gorge",
         "artist": "Nintendo",
         "album": "Mario Kart Wii",
         "id": 40,
         "playlistId": "stream"
     },
     {
-        "title": "N64 Bowser's Castle",
+        "title": "Toad's Factory",
         "artist": "Nintendo",
         "album": "Mario Kart Wii",
         "id": 41,
         "playlistId": "stream"
     },
     {
-        "title": "SNES Battle Course 4",
+        "title": "Coconut Mall",
         "artist": "Nintendo",
         "album": "Mario Kart Wii",
         "id": 42,
         "playlistId": "stream"
     },
     {
-        "title": "GBA Battle Course 3",
+        "title": "DK Summit",
         "artist": "Nintendo",
         "album": "Mario Kart Wii",
         "id": 43,
         "playlistId": "stream"
     },
     {
-        "title": "N64 Skyscraper",
+        "title": "Wario's Gold Mine",
         "artist": "Nintendo",
         "album": "Mario Kart Wii",
         "id": 44,
         "playlistId": "stream"
     },
     {
-        "title": "GCN Cookie Land",
+        "title": "Daisy Circuit",
         "artist": "Nintendo",
         "album": "Mario Kart Wii",
         "id": 45,
         "playlistId": "stream"
     },
     {
-        "title": "DS Twilight House",
+        "title": "Koopa Cape",
         "artist": "Nintendo",
         "album": "Mario Kart Wii",
         "id": 46,
         "playlistId": "stream"
     },
     {
-        "title": "Boss (Competition)",
+        "title": "Maple Treeway",
         "artist": "Nintendo",
         "album": "Mario Kart Wii",
         "id": 47,
         "playlistId": "stream"
     },
     {
-        "title": "Victory / Winning Results (Competition)",
+        "title": "Moonview Highway",
         "artist": "Nintendo",
         "album": "Mario Kart Wii",
         "id": 48,
         "playlistId": "stream"
     },
     {
-        "title": "Waiting To Join & Ghost Replay",
+        "title": "Rainbow Road",
         "artist": "Nintendo",
         "album": "Mario Kart Wii",
         "id": 49,
         "playlistId": "stream"
     },
     {
-        "title": "Finish Out / Losing Results (Race)",
+        "title": "Credits Pt.1",
         "artist": "Nintendo",
         "album": "Mario Kart Wii",
         "id": 50,
         "playlistId": "stream"
     },
     {
-        "title": "No Trophy for You!",
+        "title": "Credits Pt.2",
         "artist": "Nintendo",
         "album": "Mario Kart Wii",
         "id": 51,
         "playlistId": "stream"
     },
     {
-        "title": "Setup and Kart Select",
+        "title": "Funky Stadium",
         "artist": "Nintendo",
         "album": "Mario Kart Wii",
         "id": 52,
         "playlistId": "stream"
     },
     {
-        "title": "Defeat / Losing Results (Battle)",
+        "title": "DS Yoshi Falls",
         "artist": "Nintendo",
         "album": "Mario Kart Wii",
         "id": 53,
         "playlistId": "stream"
     },
     {
-        "title": "Finish First / Winning Results (Race)",
+        "title": "N64 Mario Raceway",
         "artist": "Nintendo",
         "album": "Mario Kart Wii",
         "id": 54,
         "playlistId": "stream"
     },
     {
-        "title": "Option",
+        "title": "DS Delfino Square",
         "artist": "Nintendo",
         "album": "Mario Kart Wii",
         "id": 55,
         "playlistId": "stream"
     },
     {
-        "title": "Finish OK / Winning Results (Race)",
+        "title": "GCN Waluigi Stadium",
         "artist": "Nintendo",
         "album": "Mario Kart Wii",
         "id": 56,
         "playlistId": "stream"
     },
     {
-        "title": "Draw / Winning Results (Battle)",
+        "title": "GCN Mario Circuit",
         "artist": "Nintendo",
         "album": "Mario Kart Wii",
         "id": 57,
         "playlistId": "stream"
     },
     {
-        "title": "Finish First / Winning Reults (Battle)",
+        "title": "SNES Mario Circuit 3",
         "artist": "Nintendo",
         "album": "Mario Kart Wii",
         "id": 58,
         "playlistId": "stream"
     },
     {
-        "title": "Victory / Winning Results (Time Trial)",
+        "title": "DS Peach Gardens",
         "artist": "Nintendo",
         "album": "Mario Kart Wii",
         "id": 59,
         "playlistId": "stream"
     },
     {
-        "title": "Trophy Presentations (Short)",
+        "title": "GCN DK Mountain",
         "artist": "Nintendo",
         "album": "Mario Kart Wii",
         "id": 60,
         "playlistId": "stream"
     },
     {
-        "title": "Trophy Presentations (Shorter)",
+        "title": "Waiting To Join & Ghost Replay",
         "artist": "Nintendo",
         "album": "Mario Kart Wii",
         "id": 61,
         "playlistId": "stream"
     },
     {
-        "title": "Mario Kart Channel",
+        "title": "Setup and Kart Select",
         "artist": "Nintendo",
         "album": "Mario Kart Wii",
         "id": 62,
         "playlistId": "stream"
     },
     {
-        "title": "Rankings",
+        "title": "Option",
         "artist": "Nintendo",
         "album": "Mario Kart Wii",
         "id": 63,
         "playlistId": "stream"
     },
     {
-        "title": "Nintendo WFC",
+        "title": "Mario Kart Channel",
         "artist": "Nintendo",
         "album": "Mario Kart Wii",
         "id": 64,
         "playlistId": "stream"
     },
     {
+        "title": "Nintendo WFC",
+        "artist": "Nintendo",
+        "album": "Mario Kart Wii",
+        "id": 65,
+        "playlistId": "stream"
+    },
+    {
         "title": "Nasty Majesty",
         "artist": "Off the Hook",
         "album": "Octotune",
-        "id": 65,
+        "id": 66,
         "playlistId": "stream"
     },
     {
         "title": "Cap'n Cuttlefish's Theme (Octo) ~ Player Editor",
         "artist": "Nintendo",
         "album": "Octotune",
-        "id": 66,
-        "playlistId": "stream"
-    },
-    {
-        "title": "#5 thirsty",
-        "artist": "Dedf1sh",
-        "album": "Octotune",
         "id": 67,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Deepsea Metro Central Station",
-        "artist": "Nintendo",
-        "album": "Octotune",
-        "id": 68,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Telephone's Theme",
-        "artist": "Nintendo",
-        "album": "Octotune",
-        "id": 69,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Inside the Deepsea Metro Subway Car",
-        "artist": "Nintendo",
-        "album": "Octotune",
-        "id": 70,
         "playlistId": "stream"
     },
     {
         "title": "#0 shell",
         "artist": "Dedf1sh",
         "album": "Octotune",
-        "id": 71,
+        "id": 68,
         "playlistId": "stream"
     },
     {
         "title": "#6 frisk",
         "artist": "Dedf1sh",
         "album": "Octotune",
-        "id": 72,
-        "playlistId": "stream"
-    },
-    {
-        "title": "#4 dunno",
-        "artist": "Dedf1sh",
-        "album": "Octotune",
-        "id": 73,
-        "playlistId": "stream"
-    },
-    {
-        "title": "#2 ripped",
-        "artist": "Dedf1sh",
-        "album": "Octotune",
-        "id": 74,
+        "id": 69,
         "playlistId": "stream"
     },
     {
         "title": "#9 party",
         "artist": "Dedf1sh",
         "album": "Octotune",
-        "id": 75,
+        "id": 70,
         "playlistId": "stream"
     },
     {
         "title": "Shark Bytes",
         "artist": "Off the Hook",
         "album": "Octotune",
-        "id": 76,
+        "id": 71,
         "playlistId": "stream"
     },
     {
         "title": "#8 regret",
         "artist": "Dedf1sh",
         "album": "Octotune",
-        "id": 77,
+        "id": 72,
         "playlistId": "stream"
     },
     {
         "title": "#14 crush",
         "artist": "Dedf1sh",
         "album": "Octotune",
-        "id": 78,
-        "playlistId": "stream"
-    },
-    {
-        "title": "#13 shade",
-        "artist": "Dedf1sh",
-        "album": "Octotune",
-        "id": 79,
-        "playlistId": "stream"
-    },
-    {
-        "title": "#16 salty",
-        "artist": "Dedf1sh",
-        "album": "Octotune",
-        "id": 80,
+        "id": 73,
         "playlistId": "stream"
     },
     {
         "title": "#12 awake",
         "artist": "Dedf1sh",
         "album": "Octotune",
-        "id": 81,
+        "id": 74,
         "playlistId": "stream"
     },
     {
         "title": "#11 above",
         "artist": "Dedf1sh",
         "album": "Octotune",
-        "id": 82,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Thang Jingle",
-        "artist": "Nintendo",
-        "album": "Octotune",
-        "id": 83,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Completion",
-        "artist": "Nintendo",
-        "album": "Octotune",
-        "id": 84,
+        "id": 75,
         "playlistId": "stream"
     },
     {
         "title": "Splattack! (Octo)",
         "artist": "Dedf1sh",
         "album": "Octotune",
-        "id": 85,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Actually it's Commander Tartar's Theme",
-        "artist": "Nintendo",
-        "album": "Octotune",
-        "id": 86,
+        "id": 76,
         "playlistId": "stream"
     },
     {
         "title": "The Plan",
         "artist": "Nintendo",
         "album": "Octotune",
-        "id": 87,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Last Battle Opening",
-        "artist": "Off the Hook",
-        "album": "Octotune",
-        "id": 88,
+        "id": 77,
         "playlistId": "stream"
     },
     {
         "title": "Fly Octo Fly",
         "artist": "Off the Hook",
         "album": "Octotune",
-        "id": 89,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Ebb & Flow (Octo)",
-        "artist": "Off the Hook",
-        "album": "Octotune",
-        "id": 90,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Conclusion",
-        "artist": "Nintendo",
-        "album": "Octotune",
-        "id": 91,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Grand Finale",
-        "artist": "Nintendo",
-        "album": "Octotune",
-        "id": 92,
+        "id": 78,
         "playlistId": "stream"
     },
     {
         "title": "Into the Light",
         "artist": "Off the Hook",
         "album": "Octotune",
-        "id": 93,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Ebb & Flow (Demo)",
-        "artist": "Marina",
-        "album": "Octotune",
-        "id": 94,
+        "id": 79,
         "playlistId": "stream"
     },
     {
         "title": "Blitz It!",
         "artist": "Chirpy Chips",
         "album": "Octotune",
-        "id": 95,
+        "id": 80,
         "playlistId": "stream"
     },
     {
         "title": "Wave Prism",
         "artist": "Chirpy Chips",
         "album": "Octotune",
-        "id": 96,
+        "id": 81,
         "playlistId": "stream"
     },
     {
         "title": "Kinetosis",
         "artist": "Diss-Pair",
         "album": "Octotune",
-        "id": 97,
+        "id": 82,
         "playlistId": "stream"
     },
     {
         "title": "Seasick",
         "artist": "Diss-Pair",
         "album": "Octotune",
-        "id": 98,
+        "id": 83,
         "playlistId": "stream"
     },
     {
         "title": "Chopscrewey",
         "artist": "SashiMori",
         "album": "Octotune",
-        "id": 99,
+        "id": 84,
         "playlistId": "stream"
     },
     {
         "title": "Entropical",
         "artist": "SashiMori",
         "album": "Octotune",
-        "id": 100,
-        "playlistId": "stream"
-    },
-    {
-        "title": "SPLATOCALYPSE",
-        "artist": "Nintendo",
-        "album": "Octotune",
-        "id": 101,
+        "id": 85,
         "playlistId": "stream"
     },
     {
         "title": "Color Pulse (1st Concert)",
         "artist": "Off the Hook",
         "album": "Octotune",
-        "id": 102,
+        "id": 86,
         "playlistId": "stream"
     },
     {
         "title": "Acid Hues (1st Concert)",
         "artist": "Off the Hook",
         "album": "Octotune",
-        "id": 103,
+        "id": 87,
         "playlistId": "stream"
     },
     {
         "title": "Muck Warfare (1st Concert)",
         "artist": "Off the Hook",
         "album": "Octotune",
-        "id": 104,
+        "id": 88,
         "playlistId": "stream"
     },
     {
         "title": "Ebb & Flow (1st Concert)",
         "artist": "Off the Hook",
         "album": "Octotune",
-        "id": 105,
+        "id": 89,
         "playlistId": "stream"
     },
     {
-        "title": "Fresh Start",
+        "title": "Fresh Start (1st Concert)",
         "artist": "Squid Sisters",
         "album": "Octotune",
-        "id": 106,
+        "id": 90,
         "playlistId": "stream"
     },
     {
         "title": "Spicy Calamari Inkantation (1st Concert)",
         "artist": "Squid Sisters",
         "album": "Octotune",
-        "id": 107,
+        "id": 91,
         "playlistId": "stream"
     },
     {
         "title": "Now or Never! (1st Concert)",
         "artist": "Off the Hook & Squid Sisters",
         "album": "Octotune",
-        "id": 108,
+        "id": 92,
         "playlistId": "stream"
     },
     {
         "title": "Color Pulse",
         "artist": "Off the Hook",
         "album": "Octotune",
-        "id": 109,
+        "id": 93,
         "playlistId": "stream"
     },
     {
         "title": "Acid Hues",
         "artist": "Off the Hook",
         "album": "Octotune",
-        "id": 110,
+        "id": 94,
         "playlistId": "stream"
     },
     {
         "title": "Muck Warfare",
         "artist": "Off the Hook",
         "album": "Octotune",
-        "id": 111,
+        "id": 95,
         "playlistId": "stream"
     },
     {
         "title": "Ebb & Flow",
         "artist": "Off the Hook",
         "album": "Octotune",
-        "id": 112,
+        "id": 96,
         "playlistId": "stream"
     },
     {
         "title": "Fresh Start",
         "artist": "Squid Sisters",
         "album": "Octotune",
-        "id": 113,
+        "id": 97,
         "playlistId": "stream"
     },
     {
         "title": "Spicy Calamari Inkantation",
         "artist": "Squid Sisters",
         "album": "Octotune",
-        "id": 114,
+        "id": 98,
         "playlistId": "stream"
     },
     {
         "title": "Now or Never!",
         "artist": "Off the Hook",
         "album": "Octotune",
-        "id": 115,
+        "id": 99,
         "playlistId": "stream"
     },
     {
         "title": "#0.1 style",
         "artist": "Dedf1sh",
         "album": "Ordertune",
-        "id": 116,
+        "id": 100,
         "playlistId": "stream"
     },
     {
         "title": "#12.2 awakened",
         "artist": "Dedf1sh",
         "album": "Ordertune",
-        "id": 117,
+        "id": 101,
         "playlistId": "stream"
     },
     {
         "title": "Leaving with Pearl",
         "artist": "Order Sector",
         "album": "Ordertune",
-        "id": 118,
+        "id": 102,
         "playlistId": "stream"
     },
     {
         "title": "Origin of Order",
         "artist": "Order Sector",
         "album": "Ordertune",
-        "id": 119,
+        "id": 103,
         "playlistId": "stream"
     },
     {
         "title": "Unconscience",
         "artist": "Marina",
         "album": "Ordertune",
-        "id": 120,
+        "id": 104,
         "playlistId": "stream"
     },
     {
         "title": "demol1sh",
         "artist": "Free Association",
         "album": "Ordertune",
-        "id": 121,
+        "id": 105,
         "playlistId": "stream"
     },
     {
         "title": "demol2sh",
         "artist": "Free Association",
         "album": "Ordertune",
-        "id": 122,
-        "playlistId": "stream"
-    },
-    {
-        "title": "d3molish",
-        "artist": "Free Association",
-        "album": "Ordertune",
-        "id": 123,
+        "id": 106,
         "playlistId": "stream"
     },
     {
         "title": "jest1ng",
         "artist": "Free Association",
         "album": "Ordertune",
-        "id": 124,
+        "id": 107,
         "playlistId": "stream"
     },
     {
         "title": "je2ting",
         "artist": "Free Association",
         "album": "Ordertune",
-        "id": 125,
-        "playlistId": "stream"
-    },
-    {
-        "title": "j3sting",
-        "artist": "Free Association",
-        "album": "Ordertune",
-        "id": 126,
+        "id": 108,
         "playlistId": "stream"
     },
     {
         "title": "rout1nes",
         "artist": "Free Association",
         "album": "Ordertune",
-        "id": 127,
+        "id": 109,
         "playlistId": "stream"
     },
     {
         "title": "routine2",
         "artist": "Free Association",
         "album": "Ordertune",
-        "id": 128,
-        "playlistId": "stream"
-    },
-    {
-        "title": "routin3s",
-        "artist": "Free Association",
-        "album": "Ordertune",
-        "id": 129,
+        "id": 110,
         "playlistId": "stream"
     },
     {
         "title": "souven1r",
         "artist": "Free Association",
         "album": "Ordertune",
-        "id": 130,
+        "id": 111,
         "playlistId": "stream"
     },
     {
         "title": "2ouvenir",
         "artist": "Free Association",
         "album": "Ordertune",
-        "id": 131,
-        "playlistId": "stream"
-    },
-    {
-        "title": "souv3nir",
-        "artist": "Free Association",
-        "album": "Ordertune",
-        "id": 132,
+        "id": 112,
         "playlistId": "stream"
     },
     {
         "title": "j1tters",
         "artist": "Free Association",
         "album": "Ordertune",
-        "id": 133,
+        "id": 113,
         "playlistId": "stream"
     },
     {
         "title": "jitter2",
         "artist": "Free Association",
         "album": "Ordertune",
-        "id": 134,
-        "playlistId": "stream"
-    },
-    {
-        "title": "jitt3rs",
-        "artist": "Free Association",
-        "album": "Ordertune",
-        "id": 135,
+        "id": 114,
         "playlistId": "stream"
     },
     {
         "title": "EchΘ Θnslaught",
         "artist": "Free Association",
         "album": "Ordertune",
-        "id": 136,
+        "id": 115,
         "playlistId": "stream"
     },
     {
         "title": "CΘld StΘrage",
         "artist": "Free Association",
         "album": "Ordertune",
-        "id": 137,
+        "id": 116,
         "playlistId": "stream"
     },
     {
         "title": "ΘctΘpticΘn",
         "artist": "Free Association",
         "album": "Ordertune",
-        "id": 138,
-        "playlistId": "stream"
-    },
-    {
-        "title": "New World Order",
-        "artist": "Free Association",
-        "album": "Ordertune",
-        "id": 139,
+        "id": 117,
         "playlistId": "stream"
     },
     {
         "title": "Spectrum Obligato ~ Ebb & Flow (Out of Order)",
         "artist": "Off the Hook feat. Dedf1sh",
         "album": "Ordertune",
-        "id": 140,
+        "id": 118,
         "playlistId": "stream"
     },
     {
         "title": "#47 onward",
         "artist": "Dedf1sh feat. Off the Hook",
         "album": "Ordertune",
-        "id": 141,
+        "id": 119,
         "playlistId": "stream"
     },
     {
         "title": "Short Order",
         "artist": "Off the Hook",
         "album": "Ordertune",
-        "id": 142,
+        "id": 120,
         "playlistId": "stream"
     },
     {
         "title": "Color Pulse 2024",
         "artist": "Off the Hook",
         "album": "Ordertune",
-        "id": 143,
+        "id": 121,
         "playlistId": "stream"
     },
     {
         "title": "We're So Back",
         "artist": "Off the Hook",
         "album": "Ordertune",
-        "id": 144,
+        "id": 122,
         "playlistId": "stream"
     },
     {
         "title": "Lookin' Fresh (Hotlantis)",
         "artist": "DJ Lee Fish",
         "album": "Ordertune",
-        "id": 145,
+        "id": 123,
         "playlistId": "stream"
     },
     {
         "title": "New You (Hotlantis)",
         "artist": "DJ Real Sole",
         "album": "Ordertune",
-        "id": 146,
+        "id": 124,
         "playlistId": "stream"
     },
     {
         "title": "City of Color 2023",
         "artist": "Squid Sisters",
         "album": "Ordertune",
-        "id": 147,
+        "id": 125,
         "playlistId": "stream"
     },
     {
         "title": "Tomorrows Nostalgia Today",
         "artist": "Squid Sisters",
         "album": "Ordertune",
-        "id": 148,
+        "id": 126,
         "playlistId": "stream"
     },
     {
         "title": "Amalgamania",
         "artist": "SashiMori",
         "album": "Ordertune",
-        "id": 149,
+        "id": 127,
         "playlistId": "stream"
     },
     {
         "title": "Seasource",
         "artist": "SashiMori",
         "album": "Ordertune",
-        "id": 150,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Yule Tide",
-        "artist": "Decksterity",
-        "album": "Ordertune",
-        "id": 151,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Meadowlark",
-        "artist": "Saplings",
-        "album": "Ordertune",
-        "id": 152,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Suntan Ocean (First Half)",
-        "artist": "Reel Deel",
-        "album": "Ordertune",
-        "id": 153,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Suntan Ocean (Second Half)",
-        "artist": "Reel Deel",
-        "album": "Ordertune",
-        "id": 154,
+        "id": 128,
         "playlistId": "stream"
     },
     {
         "title": "Double Clickbait",
         "artist": "ω-3",
         "album": "Ordertune",
-        "id": 155,
+        "id": 129,
         "playlistId": "stream"
     },
     {
         "title": "Soak & Stomp (Grand_Mix) (First Half)",
         "artist": "Anglerfish feat. Cory",
         "album": "Ordertune",
-        "id": 156,
+        "id": 130,
         "playlistId": "stream"
     },
     {
         "title": "Soak & Stomp (Grand_Mix) (Second Half)",
         "artist": "Anglerfish feat. Cory",
         "album": "Ordertune",
-        "id": 157,
+        "id": 131,
         "playlistId": "stream"
     },
     {
         "title": "Three Wishes",
         "artist": "Now or Never Seven",
         "album": "Ordertune",
-        "id": 158,
+        "id": 132,
         "playlistId": "stream"
     },
     {
         "title": "Rainbow Color Inkantation",
         "artist": "Now or Never Seven",
         "album": "Ordertune",
-        "id": 159,
+        "id": 133,
         "playlistId": "stream"
     },
     {
         "title": "Blushing Tide",
         "artist": "Squid Sisters",
         "album": "Ordertune",
-        "id": 160,
+        "id": 134,
         "playlistId": "stream"
     },
     {
         "title": "Inkoming!",
         "artist": "Wet Floor",
         "album": "Splatune 2",
-        "id": 161,
+        "id": 135,
         "playlistId": "stream"
     },
     {
         "title": "Rip Entry",
         "artist": "Wet Floor",
         "album": "Splatune 2",
-        "id": 162,
+        "id": 136,
         "playlistId": "stream"
     },
     {
         "title": "Undertow",
         "artist": "Wet Floor",
         "album": "Splatune 2",
-        "id": 163,
+        "id": 137,
         "playlistId": "stream"
     },
     {
         "title": "Don't Slip",
         "artist": "Wet Floor",
         "album": "Splatune 2",
-        "id": 164,
+        "id": 138,
         "playlistId": "stream"
     },
     {
         "title": "Endolphin Surge",
         "artist": "Wet Floor",
         "album": "Splatune 2",
-        "id": 165,
+        "id": 139,
         "playlistId": "stream"
     },
     {
         "title": "Now or Never!",
         "artist": "Wet Floor",
         "album": "Splatune 2",
-        "id": 166,
+        "id": 140,
         "playlistId": "stream"
     },
     {
         "title": "Turf Master",
         "artist": "Wet Floor",
         "album": "Splatune 2",
-        "id": 167,
+        "id": 141,
         "playlistId": "stream"
     },
     {
         "title": "Ink Another Day",
         "artist": "Wet Floor",
         "album": "Splatune 2",
-        "id": 168,
+        "id": 142,
         "playlistId": "stream"
     },
     {
         "title": "Shipwreckin'",
         "artist": "Bottom Feeders",
         "album": "Splatune 2",
-        "id": 169,
+        "id": 143,
         "playlistId": "stream"
     },
     {
         "title": "Fins & Fiddles",
         "artist": "Bottom Feeders",
         "album": "Splatune 2",
-        "id": 170,
+        "id": 144,
         "playlistId": "stream"
     },
     {
         "title": "Seafoam Shanty",
         "artist": "Bottom Feeders",
         "album": "Splatune 2",
-        "id": 171,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Broken Coral",
-        "artist": "Ink Theory",
-        "album": "Splatune 2",
-        "id": 172,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Riptide Rupture",
-        "artist": "Ink Theory",
-        "album": "Splatune 2",
-        "id": 173,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Inkopolis Tutorial",
-        "artist": "Nintendo",
-        "album": "Splatune 2",
-        "id": 174,
-        "playlistId": "stream"
-    },
-    {
-        "title": "The Square",
-        "artist": "Nintendo",
-        "album": "Splatune 2",
-        "id": 175,
+        "id": 145,
         "playlistId": "stream"
     },
     {
         "title": "Without a Dop Doubt",
         "artist": "Nintendo",
         "album": "Splatune 2",
-        "id": 176,
+        "id": 146,
         "playlistId": "stream"
     },
     {
         "title": "The Shoal",
         "artist": "Nintendo",
         "album": "Splatune 2",
-        "id": 177,
+        "id": 147,
         "playlistId": "stream"
     },
     {
         "title": "Dubble Bath (DIY Remix)",
         "artist": "Bob Dub",
         "album": "Splatune 2",
-        "id": 178,
+        "id": 148,
         "playlistId": "stream"
     },
     {
         "title": "New You",
         "artist": "DJ Real Sole",
         "album": "Splatune 2",
-        "id": 179,
+        "id": 149,
         "playlistId": "stream"
     },
     {
         "title": "Happy Little Workers",
         "artist": "Grizzco Industries",
         "album": "Splatune 2",
-        "id": 180,
+        "id": 150,
         "playlistId": "stream"
     },
     {
         "title": "Surge & Submerge",
         "artist": "w-3",
         "album": "Splatune 2",
-        "id": 181,
+        "id": 151,
         "playlistId": "stream"
     },
     {
         "title": "Deluge Dirge",
         "artist": "w-3",
         "album": "Splatune 2",
-        "id": 182,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Fishing Frenzy",
-        "artist": "w-3",
-        "album": "Splatune 2",
-        "id": 183,
+        "id": 152,
         "playlistId": "stream"
     },
     {
         "title": "Ever Further",
         "artist": "Grizzco Industries",
         "album": "Splatune 2",
-        "id": 184,
+        "id": 153,
         "playlistId": "stream"
     },
     {
         "title": "Inkopolis News",
         "artist": "Off the Hook",
         "album": "Splatune 2",
-        "id": 185,
+        "id": 154,
         "playlistId": "stream"
     },
     {
         "title": "Frantic Aspic",
         "artist": "w-3",
         "album": "Splatune 2",
-        "id": 186,
+        "id": 155,
         "playlistId": "stream"
     },
     {
         "title": "Color Pulse",
         "artist": "Off the Hook",
         "album": "Splatune 2",
-        "id": 187,
+        "id": 156,
         "playlistId": "stream"
     },
     {
         "title": "Ebb & Flow",
         "artist": "Off the Hook",
         "album": "Splatune 2",
-        "id": 188,
+        "id": 157,
         "playlistId": "stream"
     },
     {
         "title": "Acid Hues",
         "artist": "Off the Hook",
         "album": "Splatune 2",
-        "id": 189,
+        "id": 158,
         "playlistId": "stream"
     },
     {
         "title": "Muck Warfare",
         "artist": "Off the Hook",
         "album": "Splatune 2",
-        "id": 190,
+        "id": 159,
         "playlistId": "stream"
     },
     {
         "title": "Now or Never!",
         "artist": "Off the Hook",
         "album": "Splatune 2",
-        "id": 191,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Party's Over",
-        "artist": "Off the Hook",
-        "album": "Splatune 2",
-        "id": 192,
+        "id": 160,
         "playlistId": "stream"
     },
     {
         "title": "Low Tide",
         "artist": "Nintendo",
         "album": "Splatune 2",
-        "id": 193,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Octo Canyon",
-        "artist": "Turquoise October",
-        "album": "Splatune 2",
-        "id": 194,
+        "id": 161,
         "playlistId": "stream"
     },
     {
         "title": "Octo Eight-Step",
         "artist": "Turquoise October",
         "album": "Splatune 2",
-        "id": 195,
+        "id": 162,
         "playlistId": "stream"
     },
     {
         "title": "The Girl from Inkopolis",
         "artist": "Turquoise October",
         "album": "Splatune 2",
-        "id": 196,
+        "id": 163,
         "playlistId": "stream"
     },
     {
         "title": "Buoyant Boogie",
         "artist": "Turquoise October",
         "album": "Splatune 2",
-        "id": 197,
+        "id": 164,
         "playlistId": "stream"
     },
     {
         "title": "Shooting Starfish",
         "artist": "Turquoise October",
         "album": "Splatune 2",
-        "id": 198,
+        "id": 165,
         "playlistId": "stream"
     },
     {
         "title": "Tentacular Circus",
         "artist": "Turquoise October",
         "album": "Splatune 2",
-        "id": 199,
+        "id": 166,
         "playlistId": "stream"
     },
     {
         "title": "Cephaloparade",
         "artist": "Turquoise October",
         "album": "Splatune 2",
-        "id": 200,
+        "id": 167,
         "playlistId": "stream"
     },
     {
         "title": "Octoling Rendezvous",
         "artist": "Turquoise October",
         "album": "Splatune 2",
-        "id": 201,
+        "id": 168,
         "playlistId": "stream"
     },
     {
         "title": "Octarmaments",
         "artist": "Turquoise October",
         "album": "Splatune 2",
-        "id": 202,
+        "id": 169,
         "playlistId": "stream"
     },
     {
         "title": "Bomb Rush Blush",
         "artist": "DJ Octavio feat. Callie",
         "album": "Splatune 2",
-        "id": 203,
+        "id": 170,
         "playlistId": "stream"
     },
     {
         "title": "Tidal Rush",
         "artist": "DJ Octavio feat. Callie vs. Marie",
         "album": "Splatune 2",
-        "id": 204,
+        "id": 171,
         "playlistId": "stream"
     },
     {
         "title": "Spicy Calamari Inkantation",
         "artist": "Squid Sisters",
         "album": "Splatune 2",
-        "id": 205,
+        "id": 172,
         "playlistId": "stream"
     },
     {
         "title": "Fresh Start",
         "artist": "Squid Sisters",
         "album": "Splatune 2",
-        "id": 206,
+        "id": 173,
         "playlistId": "stream"
     },
     {
         "title": "Get The Shining Future! (Grizzco Industries Recruitment Video BGM)",
         "artist": "Grizzco Industries",
         "album": "Splatune 2",
-        "id": 207,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Character Creation",
-        "artist": "Mahi-Mahi Resort Jellyfish Band",
-        "album": "Splatune 3",
-        "id": 208,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Tutorial",
-        "artist": "C-Side",
-        "album": "Splatune 3",
-        "id": 209,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Splatsville Tutorial",
-        "artist": "Nintendo",
-        "album": "Splatune 3",
-        "id": 210,
+        "id": 174,
         "playlistId": "stream"
     },
     {
         "title": "Anarchy Splatcast",
         "artist": "Deep Cut",
         "album": "Splatune 3",
-        "id": 211,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Anarchy Splatcast (Big Run)",
-        "artist": "Grizzco Industries",
-        "album": "Splatune 3",
-        "id": 212,
+        "id": 175,
         "playlistId": "stream"
     },
     {
         "title": "Pop 'n' Schlock",
         "artist": "Chroma Chaos",
         "album": "Splatune 3",
-        "id": 213,
+        "id": 176,
         "playlistId": "stream"
     },
     {
         "title": "Shopping in Splatsville",
         "artist": "Nintendo",
         "album": "Splatune 3",
-        "id": 214,
+        "id": 177,
         "playlistId": "stream"
     },
     {
         "title": "Sinkopated",
         "artist": "Backwash",
         "album": "Splatune 3",
-        "id": 215,
+        "id": 178,
         "playlistId": "stream"
     },
     {
         "title": "Drip Feed",
         "artist": "Turf Love",
         "album": "Splatune 3",
-        "id": 216,
+        "id": 179,
         "playlistId": "stream"
     },
     {
         "title": "Heliocentri City",
         "artist": "Wading Room",
         "album": "Splatune 3",
-        "id": 217,
+        "id": 180,
         "playlistId": "stream"
     },
     {
         "title": "Fuzzy Dazzler",
         "artist": "New Shores",
         "album": "Splatune 3",
-        "id": 218,
+        "id": 181,
         "playlistId": "stream"
     },
     {
         "title": "Blop Bop",
         "artist": "Bonfire",
         "album": "Splatune 3",
-        "id": 219,
+        "id": 182,
         "playlistId": "stream"
     },
     {
         "title": "Gilded Cage",
         "artist": "All Swell",
         "album": "Splatune 3",
-        "id": 220,
+        "id": 183,
         "playlistId": "stream"
     },
     {
         "title": "Dressed to Krill",
         "artist": "Coral Kiss",
         "album": "Splatune 3",
-        "id": 221,
+        "id": 184,
         "playlistId": "stream"
     },
     {
         "title": "Slick Moves",
         "artist": "Crevasse",
         "album": "Splatune 3",
-        "id": 222,
+        "id": 185,
         "playlistId": "stream"
     },
     {
         "title": "Belly Flop",
         "artist": "Aquariyum",
         "album": "Splatune 3",
-        "id": 223,
+        "id": 186,
         "playlistId": "stream"
     },
     {
         "title": "Gillty",
         "artist": "Pianissimo",
         "album": "Splatune 3",
-        "id": 224,
+        "id": 187,
         "playlistId": "stream"
     },
     {
         "title": "Pour It On",
         "artist": "Missing Ink",
         "album": "Splatune 3",
-        "id": 225,
+        "id": 188,
         "playlistId": "stream"
     },
     {
         "title": "The Shoal",
         "artist": "Nintendo",
         "album": "Splatune 3",
-        "id": 226,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Clashing Colors",
-        "artist": "Medusa",
-        "album": "Splatune 3",
-        "id": 227,
+        "id": 189,
         "playlistId": "stream"
     },
     {
         "title": "Dorsal Slicer",
         "artist": "Nothing in My Wave",
         "album": "Splatune 3",
-        "id": 228,
+        "id": 190,
         "playlistId": "stream"
     },
     {
         "title": "Dripping with Style (Ammo Knights)",
         "artist": "Seven Seas Crew",
         "album": "Splatune 3",
-        "id": 229,
+        "id": 191,
         "playlistId": "stream"
     },
     {
         "title": "Dripping with Style (Crush Station)",
         "artist": "Seven Seas Crew",
         "album": "Splatune 3",
-        "id": 230,
+        "id": 192,
         "playlistId": "stream"
     },
     {
         "title": "Dripping with Style (Hotlantis)",
         "artist": "Seven Seas Crew",
         "album": "Splatune 3",
-        "id": 231,
+        "id": 193,
         "playlistId": "stream"
     },
     {
         "title": "Dripping with Style (Man-o'-Wardrobe)",
         "artist": "Seven Seas Crew",
         "album": "Splatune 3",
-        "id": 232,
+        "id": 194,
         "playlistId": "stream"
     },
     {
         "title": "Dripping with Style (Naut Couture)",
         "artist": "Seven Seas Crew",
         "album": "Splatune 3",
-        "id": 233,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Clickbait",
-        "artist": "C-Side",
-        "album": "Splatune 3",
-        "id": 234,
+        "id": 195,
         "playlistId": "stream"
     },
     {
         "title": "Clickbait (Anarchy Battle)",
         "artist": "C-Side",
         "album": "Splatune 3",
-        "id": 235,
+        "id": 196,
         "playlistId": "stream"
     },
     {
         "title": "Paintscraper",
         "artist": "C-Side",
         "album": "Splatune 3",
-        "id": 236,
+        "id": 197,
         "playlistId": "stream"
     },
     {
         "title": "Headhammer",
         "artist": "C-Side",
         "album": "Splatune 3",
-        "id": 237,
+        "id": 198,
         "playlistId": "stream"
     },
     {
         "title": "Triple Dip",
         "artist": "C-Side",
         "album": "Splatune 3",
-        "id": 238,
+        "id": 199,
         "playlistId": "stream"
     },
     {
         "title": "Sea Me Now",
         "artist": "Front Roe",
         "album": "Splatune 3",
-        "id": 239,
+        "id": 200,
         "playlistId": "stream"
     },
     {
         "title": "Splattack!",
         "artist": "C-Side",
         "album": "Splatune 3",
-        "id": 240,
+        "id": 201,
         "playlistId": "stream"
     },
     {
         "title": "Now or Never!",
         "artist": "C-Side",
         "album": "Splatune 3",
-        "id": 241,
+        "id": 202,
         "playlistId": "stream"
     },
     {
         "title": "Candy-Coated Rocks",
         "artist": "Damp Socks feat. Off The Hook",
         "album": "Splatune 3",
-        "id": 242,
+        "id": 203,
         "playlistId": "stream"
     },
     {
         "title": "Tentacle to the Metal",
         "artist": "Damp Socks feat. Off The Hook",
         "album": "Splatune 3",
-        "id": 243,
+        "id": 204,
         "playlistId": "stream"
     },
     {
         "title": "Sandy Side Up",
         "artist": "Front Roe",
         "album": "Splatune 3",
-        "id": 244,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Rockagilly Blues",
-        "artist": "Yoko & the Gold Bazookas",
-        "album": "Splatune 3",
-        "id": 245,
+        "id": 205,
         "playlistId": "stream"
     },
     {
         "title": "Ska-BLAM",
         "artist": "Yoko & the Gold Bazookas",
         "album": "Splatune 3",
-        "id": 246,
+        "id": 206,
         "playlistId": "stream"
     },
     {
         "title": "Three-Horn Circus",
         "artist": "Yoko & the Gold Bazookas",
         "album": "Splatune 3",
-        "id": 247,
+        "id": 207,
         "playlistId": "stream"
     },
     {
         "title": "Ripstop",
         "artist": "H2Whoa",
         "album": "Splatune 3",
-        "id": 248,
+        "id": 208,
         "playlistId": "stream"
     },
     {
         "title": "Aquasonic",
         "artist": "H2Whoa",
         "album": "Splatune 3",
-        "id": 249,
+        "id": 209,
         "playlistId": "stream"
     },
     {
         "title": "Slopping Spree",
         "artist": "Chirpy Chips",
         "album": "Splatune 3",
-        "id": 250,
+        "id": 210,
         "playlistId": "stream"
     },
     {
         "title": "No Quarters",
         "artist": "Chirpy Chips",
         "album": "Splatune 3",
-        "id": 251,
-        "playlistId": "stream"
-    },
-    {
-        "title": "No Plan Survives",
-        "artist": "Riot Act",
-        "album": "Splatune 3",
-        "id": 252,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Rinse/Repeat",
-        "artist": "C-Side",
-        "album": "Splatune 3",
-        "id": 253,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Learning Curve",
-        "artist": "C-Side",
-        "album": "Splatune 3",
-        "id": 254,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Anarchy Splatcast (Splatfest!)",
-        "artist": "Deep Cut",
-        "album": "Splatune 3",
-        "id": 255,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Anarchy Rainbow",
-        "artist": "Deep Cut",
-        "album": "Splatune 3",
-        "id": 256,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Anarchy Poisons (Bird Mix)",
-        "artist": "Shiver",
-        "album": "Splatune 3",
-        "id": 257,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Anarchy Poisons (Snake Mix)",
-        "artist": "Frye",
-        "album": "Splatune 3",
-        "id": 258,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Anarchy Poisons (Boar Mix)",
-        "artist": "Big Man",
-        "album": "Splatune 3",
-        "id": 259,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Fins in the Air",
-        "artist": "Deep Cut",
-        "album": "Splatune 3",
-        "id": 260,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Till Depth Do Us Part",
-        "artist": "Deep Cut",
-        "album": "Splatune 3",
-        "id": 261,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Now or Never! (Splatfest!)",
-        "artist": "Deep Cut",
-        "album": "Splatune 3",
-        "id": 262,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Ego Overboard",
-        "artist": "Deep Cut",
-        "album": "Splatune 3",
-        "id": 263,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Still Swimmin'",
-        "artist": "Deep Cut",
-        "album": "Splatune 3",
-        "id": 264,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Vs. Lobby (Splatfest!)",
-        "artist": "Deep Cut",
-        "album": "Splatune 3",
-        "id": 265,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Liquid Sunshine",
-        "artist": "Squid Sisters feat. Ian BGM",
-        "album": "Splatune 3",
-        "id": 266,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Big Betrayal",
-        "artist": "Deep Cut",
-        "album": "Splatune 3",
-        "id": 267,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Daybreaker Anthem",
-        "artist": "Deep Cut",
-        "album": "Splatune 3",
-        "id": 268,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Deepers Creepers (Day 1)",
-        "artist": "Bloody Hook",
-        "album": "Splatune 3",
-        "id": 269,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Deepers Creepers (Day 2)",
-        "artist": "Bloody Hook",
-        "album": "Splatune 3",
-        "id": 270,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Suffer No Fools",
-        "artist": "Off the Hook VS Fire & Ice",
-        "album": "Splatune 3",
-        "id": 271,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Soak & Stomp (First Half)",
-        "artist": "Anglerfish",
-        "album": "Splatune 3",
-        "id": 272,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Splatfest Lobby (Day 2)",
-        "artist": "Anglerfish",
-        "album": "Splatune 3",
-        "id": 273,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Grizzco Lobby",
-        "artist": "Grizzco Industries",
-        "album": "Splatune 3",
-        "id": 274,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Bait & Click (Mutation)",
-        "artist": "ω-3",
-        "album": "Splatune 3",
-        "id": 275,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Frothy Waters",
-        "artist": "ω-3",
-        "album": "Splatune 3",
-        "id": 276,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Bait & Click",
-        "artist": "ω-3",
-        "album": "Splatune 3",
-        "id": 277,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Frantic Aspic (Remix)",
-        "artist": "ω-3",
-        "album": "Splatune 3",
-        "id": 278,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Toxic Anoxic",
-        "artist": "ω-3",
-        "album": "Splatune 3",
-        "id": 279,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Not Bad (Do Better)",
-        "artist": "Grizzco Industries",
-        "album": "Splatune 3",
-        "id": 280,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Happy Little Workers - 24/7 Mix",
-        "artist": "Grizzco Industries",
-        "album": "Splatune 3",
-        "id": 281,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Cap'n Cuttlefish Theme (Low Tide Remix)",
-        "artist": "Squid Sisters",
-        "album": "Splatune 3",
-        "id": 282,
-        "playlistId": "stream"
-    },
-    {
-        "title": "The Crater",
-        "artist": "Nintendo",
-        "album": "Splatune 3",
-        "id": 283,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Crater Eighters Routine",
-        "artist": "Turquoise October",
-        "album": "Splatune 3",
-        "id": 284,
-        "playlistId": "stream"
-    },
-    {
-        "title": "I Am Octavio",
-        "artist": "DJ Octavio",
-        "album": "Splatune 3",
-        "id": 285,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Sandcastles",
-        "artist": "Stars in the Deep",
-        "album": "Splatune 3",
-        "id": 286,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Sudden Depth",
-        "artist": "Mimicry",
-        "album": "Splatune 3",
-        "id": 287,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Two Shadows in the Sun",
-        "artist": "Wash Out",
-        "album": "Splatune 3",
-        "id": 288,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Dead Sea",
-        "artist": "Firefly",
-        "album": "Splatune 3",
-        "id": 289,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Whirlpool Tune",
-        "artist": "On the Clock",
-        "album": "Splatune 3",
-        "id": 290,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Hyper Diver",
-        "artist": "Anxiety Society",
-        "album": "Splatune 3",
-        "id": 291,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Squid Sisters Introduction",
-        "artist": "Squid Sisters",
-        "album": "Splatune 3",
-        "id": 292,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Gold Kettle Entrance",
-        "artist": "Nintendo",
-        "album": "Splatune 3",
-        "id": 293,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Silver Kettle Entrance",
-        "artist": "Nintendo",
-        "album": "Splatune 3",
-        "id": 294,
-        "playlistId": "stream"
-    },
-    {
-        "title": "After Alterna Kettle Entrance",
-        "artist": "Nintendo",
-        "album": "Splatune 3",
-        "id": 295,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Nine Out of Tension",
-        "artist": "Octoplush",
-        "album": "Splatune 3",
-        "id": 296,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Underwater Neon",
-        "artist": "Octoplush",
-        "album": "Splatune 3",
-        "id": 297,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Flop to It",
-        "artist": "Octoplush",
-        "album": "Splatune 3",
-        "id": 298,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Smoke and Mirrors",
-        "artist": "Octoplush",
-        "album": "Splatune 3",
-        "id": 299,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Ride or Fry",
-        "artist": "Octoplush",
-        "album": "Splatune 3",
-        "id": 300,
-        "playlistId": "stream"
-    },
-    {
-        "title": "With Flying Colors",
-        "artist": "Octoplush",
-        "album": "Splatune 3",
-        "id": 301,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Sleep & Destroy",
-        "artist": "Octoplush",
-        "album": "Splatune 3",
-        "id": 302,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Marine Machines",
-        "artist": "Octoplush",
-        "album": "Splatune 3",
-        "id": 303,
-        "playlistId": "stream"
-    },
-    {
-        "title": "#35 Caught",
-        "artist": "Octoplush",
-        "album": "Splatune 3",
-        "id": 304,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Deep Cut Introduction",
-        "artist": "Deep Cut",
-        "album": "Splatune 3",
-        "id": 305,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Deep Cut Boss",
-        "artist": "Deep Cut",
-        "album": "Splatune 3",
-        "id": 306,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Alterna Space Centre Entrance",
-        "artist": "Nintendo",
-        "album": "Splatune 3",
-        "id": 307,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Hide and Sleek",
-        "artist": "Deep Cut",
-        "album": "Splatune 3",
-        "id": 308,
-        "playlistId": "stream"
-    },
-    {
-        "title": "The Spirit Lifter: Steerage & First Class",
-        "artist": "Deep Cut",
-        "album": "Splatune 3",
-        "id": 309,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Takeoff!",
-        "artist": "Grizzco Industries",
-        "album": "Splatune 3",
-        "id": 310,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Cap'n Cuttlefish Theme (Squid Form)",
-        "artist": "Squid Sisters",
-        "album": "Splatune 3",
-        "id": 311,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Vs. Mr. Grizz",
-        "artist": "Grizzco Industries",
-        "album": "Splatune 3",
-        "id": 312,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Calamari Inktantion 3Mix",
-        "artist": "DJ Octavio; Squid Sisters; Deep Cut",
-        "album": "Splatune 3",
-        "id": 313,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Wave Goodbye",
-        "artist": "Squid Sisters",
-        "album": "Splatune 3",
-        "id": 314,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Tableturf Battle - Main Theme",
-        "artist": "Ancho-V Games",
-        "album": "Splatune 3",
-        "id": 315,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Tableturf Battle - Now or Never!",
-        "artist": "Ancho-V Games",
-        "album": "Splatune 3",
-        "id": 316,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Tableturf Battle - Victory",
-        "artist": "Ancho-V Games",
-        "album": "Splatune 3",
-        "id": 317,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Tableturf Battle - Defeat",
-        "artist": "Ancho-V Games",
-        "album": "Splatune 3",
-        "id": 318,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Tableturf Battle - Level Select",
-        "artist": "Ancho-V Games",
-        "album": "Splatune 3",
-        "id": 319,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Tableturf Battle - Deck Select",
-        "artist": "Ancho-V Games",
-        "album": "Splatune 3",
-        "id": 320,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Tableturf Battle - Deck Edit",
-        "artist": "Ancho-V Games",
-        "album": "Splatune 3",
-        "id": 321,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Character Creation (Memory)",
-        "artist": "Mahi-Mahi Resort Jellyfish Band",
-        "album": "Splatune 3",
-        "id": 322,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Clickbait (Demo)",
-        "artist": "C-Side",
-        "album": "Splatune 3",
-        "id": 323,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Xtrawave (Demo)",
-        "artist": "ω-3",
-        "album": "Splatune 3",
-        "id": 324,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Wii U Menu",
-        "artist": "Nintendo",
-        "album": "Splatune",
-        "id": 325,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Title Theme",
-        "artist": "Squid Squad",
-        "album": "Splatune",
-        "id": 326,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Tutorial Theme (All Sections)",
-        "artist": "Nintendo",
-        "album": "Splatune",
-        "id": 327,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Squid Sisters' News",
-        "artist": "Squid Sisters",
-        "album": "Splatune",
-        "id": 328,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Hub/Inkopolis Plaza",
-        "artist": "Nintendo",
-        "album": "Splatune",
-        "id": 329,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Lookin' Fresh",
-        "artist": "DJ Lee Fish",
-        "album": "Splatune",
-        "id": 330,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Online Selection Screen",
-        "artist": "Nintendo",
-        "album": "Splatune",
-        "id": 331,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Online Selection Screen (w/ Intro)",
-        "artist": "Nintendo",
-        "album": "Splatune",
-        "id": 332,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Dubble Bath",
-        "artist": "Bob Dub",
-        "album": "Splatune",
-        "id": 333,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Splattack!",
-        "artist": "Squid Squad",
-        "album": "Splatune",
-        "id": 334,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Ink or Sink",
-        "artist": "Squid Squad",
-        "album": "Splatune",
-        "id": 335,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Kraken Up",
-        "artist": "Squid Squad",
-        "album": "Splatune",
-        "id": 336,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Metalopod",
-        "artist": "Squid Squad",
-        "album": "Splatune",
-        "id": 337,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Seaskape",
-        "artist": "Squid Squad",
-        "album": "Splatune",
-        "id": 338,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Now or Never",
-        "artist": "Squid Squad",
-        "album": "Splatune",
-        "id": 339,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Victory Theme",
-        "artist": "Squid Squad",
-        "album": "Splatune",
-        "id": 340,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Cap'n Cuttlefish's Theme",
-        "artist": "Nintendo",
-        "album": "Splatune",
-        "id": 341,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Octo Valley",
-        "artist": "Turquoise October",
-        "album": "Splatune",
-        "id": 342,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Eight Legged Advance",
-        "artist": "Turquoise October",
-        "album": "Splatune",
-        "id": 343,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Eight Legged Advance (Last Checkpoint)",
-        "artist": "Turquoise October",
-        "album": "Splatune",
-        "id": 344,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Cephaloparade",
-        "artist": "Turquoise October",
-        "album": "Splatune",
-        "id": 345,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Cephaloparade (Last Checkpoint)",
-        "artist": "Turquoise October",
-        "album": "Splatune",
-        "id": 346,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Tentacular Circus",
-        "artist": "Turquoise October",
-        "album": "Splatune",
-        "id": 347,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Tentacular Circus (w/ Intro)",
-        "artist": "Turquoise October",
-        "album": "Splatune",
-        "id": 348,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Octoling Rendezvous",
-        "artist": "Turquoise October",
-        "album": "Splatune",
-        "id": 349,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Inkstrike Shuffle",
-        "artist": "Turquoise October",
-        "album": "Splatune",
-        "id": 350,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Octoweaonry",
-        "artist": "Turquoise October",
-        "album": "Splatune",
-        "id": 351,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Octoweaonry (Final Part)",
-        "artist": "Turquoise October",
-        "album": "Splatune",
-        "id": 352,
-        "playlistId": "stream"
-    },
-    {
-        "title": "I am Octavio",
-        "artist": "DJ Octavio",
-        "album": "Splatune",
-        "id": 353,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Calamari Inkantation",
-        "artist": "Squid Sisters",
-        "album": "Splatune",
-        "id": 354,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Maritime Memory",
-        "artist": "Squid Sisters",
-        "album": "Splatune",
-        "id": 355,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Split & Splat",
-        "artist": "Chirpy Chips",
-        "album": "Splatune",
-        "id": 356,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Shellfie",
-        "artist": "Chirpy Chips",
-        "album": "Splatune",
-        "id": 357,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Sucker Punch",
-        "artist": "Hightide Era",
-        "album": "Splatune",
-        "id": 358,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Hooked",
-        "artist": "Hightide Era",
-        "album": "Splatune",
-        "id": 359,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Sunken Scroll",
-        "artist": "Nintendo",
-        "album": "Splatune",
-        "id": 360,
-        "playlistId": "stream"
-    },
-    {
-        "title": "City of Color",
-        "artist": "Squid Sisters",
-        "album": "Splatune",
-        "id": 361,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Ink Me Up",
-        "artist": "Squid Sisters",
-        "album": "Splatune",
-        "id": 362,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Now or Never!",
-        "artist": "Squid Sisters",
-        "album": "Splatune",
-        "id": 363,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Bomb Rush Blush",
-        "artist": "Callie",
-        "album": "Splatune",
-        "id": 364,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Tide Goes Out",
-        "artist": "Marie",
-        "album": "Splatune",
-        "id": 365,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Title Theme",
-        "artist": "Nintendo",
-        "album": "Super Mario 64 - Remastered",
-        "id": 366,
-        "playlistId": "stream"
-    },
-    {
-        "title": "File Select",
-        "artist": "Nintendo",
-        "album": "Super Mario 64 - Remastered",
-        "id": 367,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Opening",
-        "artist": "Nintendo",
-        "album": "Super Mario 64 - Remastered",
-        "id": 368,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Inside the Castle Walls",
-        "artist": "Nintendo",
-        "album": "Super Mario 64 - Remastered",
-        "id": 369,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Bob-omb Battlefield",
-        "artist": "Nintendo",
-        "album": "Super Mario 64 - Remastered",
-        "id": 370,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Piranha Plant's Lullaby",
-        "artist": "Nintendo",
-        "album": "Super Mario 64 - Remastered",
-        "id": 371,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Piranha Plant's Lullaby (Piano)",
-        "artist": "Nintendo",
-        "album": "Super Mario 64 - Remastered",
-        "id": 372,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Dire, Dire Docks",
-        "artist": "Nintendo",
-        "album": "Super Mario 64 - Remastered",
-        "id": 373,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Dire, Dire Docks (Underwater)",
-        "artist": "Nintendo",
-        "album": "Super Mario 64 - Remastered",
-        "id": 374,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Dire, Dire Docks (Cave)",
-        "artist": "Nintendo",
-        "album": "Super Mario 64 - Remastered",
-        "id": 375,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Snow Mountain",
-        "artist": "Nintendo",
-        "album": "Super Mario 64 - Remastered",
-        "id": 376,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Merry-Go-Round",
-        "artist": "Nintendo",
-        "album": "Super Mario 64 - Remastered",
-        "id": 377,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Cave Dungeon",
-        "artist": "Nintendo",
-        "album": "Super Mario 64 - Remastered",
-        "id": 378,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Cave Dungeon (Hazy Maze)",
-        "artist": "Nintendo",
-        "album": "Super Mario 64 - Remastered",
-        "id": 379,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Cave Dungeon (Mix)",
-        "artist": "Nintendo",
-        "album": "Super Mario 64 - Remastered",
-        "id": 380,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Lethal Lava Land",
-        "artist": "Nintendo",
-        "album": "Super Mario 64 - Remastered",
-        "id": 381,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Powerful Mario",
-        "artist": "Nintendo",
-        "album": "Super Mario 64 - Remastered",
-        "id": 382,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Metallic Mario",
-        "artist": "Nintendo",
-        "album": "Super Mario 64 - Remastered",
-        "id": 383,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Slider",
-        "artist": "Nintendo",
-        "album": "Super Mario 64 - Remastered",
-        "id": 384,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Bowser's Road",
-        "artist": "Nintendo",
-        "album": "Super Mario 64 - Remastered",
-        "id": 385,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Bowser's Theme",
-        "artist": "Nintendo",
-        "album": "Super Mario 64 - Remastered",
-        "id": 386,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Ultimate Bowser",
-        "artist": "Nintendo",
-        "album": "Super Mario 64 - Remastered",
-        "id": 387,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Ending",
-        "artist": "Nintendo",
-        "album": "Super Mario 64 - Remastered",
-        "id": 388,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Overture",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 389,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Another Story",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 390,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Stray Child",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 391,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Sky Station Galaxy",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 392,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Peewee Piranha",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 393,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Unknown Star",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 394,
-        "playlistId": "stream"
-    },
-    {
-        "title": "The Starship Appears",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 395,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Starship Mario, Launch!",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 396,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Yoshi Star Galaxy",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 397,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Starship Mario 1",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 398,
-        "playlistId": "stream"
-    },
-    {
-        "title": "World 1 & 2",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 399,
-        "playlistId": "stream"
-    },
-    {
-        "title": "The Starship Sails",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 400,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Spin-Dig Galaxy",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 401,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Flip-Swap Galaxy",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 402,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Puzzle Plank Galaxy",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 403,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Hint TV",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 404,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Ow ow ow ow!",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 405,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Wild Glide Galaxy",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 406,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Cosmic Cove Galaxy",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 407,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Dash Yoshi",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 408,
-        "playlistId": "stream"
-    },
-    {
-        "title": "World 3",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 409,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Forest Dwellers",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 410,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Slider",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 411,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Freezy Flake Galaxy",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 412,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Warp Pipe Room",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 413,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Cloudy Court Galaxy",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 414,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Megahammer",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 415,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Starship Mario 2",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 416,
-        "playlistId": "stream"
-    },
-    {
-        "title": "World 4",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 417,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Honeybloom Galaxy",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 418,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Flipsville Galaxy",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 419,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Glamdozer",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 420,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Beat Block Galaxy",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 421,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Starshine Beach Galaxy",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 422,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Teleporter",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 423,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Starshine Beach Galaxy -Underwater-",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 424,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Bowser's Lava Lair",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 425,
-        "playlistId": "stream"
-    },
-    {
-        "title": "World 5",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 426,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Space Storm Galaxy",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 427,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Rightside Down Galaxy",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 428,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Haunty Halls Galaxy",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 429,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Slipsand Galaxy",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 430,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Squizzard",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 431,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Bowser Jr.'s Fiery Flotilla",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 432,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Starship Mario 3",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 433,
-        "playlistId": "stream"
-    },
-    {
-        "title": "World 6",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 434,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Melty Monster Galaxy",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 435,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Throwback Galaxy",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 436,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Sweet Mystery Galaxy",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 437,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Fleet Glide Galaxy",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 438,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Slimy Spring Galaxy",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 439,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Boss Blitz Galaxy",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 440,
-        "playlistId": "stream"
-    },
-    {
-        "title": "World S",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 441,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Tension",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 442,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Galaxy Generator",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 443,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Inkoming! (Cloud Demo)",
-        "artist": "Wet Floor",
-        "album": "Splatune 2",
-        "id": 444,
-        "playlistId": "stream"
-    },
-    {
-        "title": "The Fated Battle",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 445,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Precious One",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 446,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Credits",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 447,
-        "playlistId": "stream"
-    },
-    {
-        "title": "The Luma and the Hat",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 448,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Green Star",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 449,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Main Theme",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 450,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Overture",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 451,
-        "playlistId": "stream"
-    },
-    {
-        "title": "The Star Festival",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 452,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Attack of the Airships",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 453,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Enter the Galaxy",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 454,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Egg Planet",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 455,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Rosalina in the Observatory 1",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 456,
-        "playlistId": "stream"
-    },
-    {
-        "title": "The Honeyhive",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 457,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Space Junk Road",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 458,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Battlerock Galaxy",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 459,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Beach Bowl Galaxy",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 460,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Rosalina in the Observatory 2",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 461,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Enter Bowser Jr.!",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 462,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Waltz of the Boos",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 463,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Buoy Base Galaxy",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 464,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Gusty Garden Galaxy",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 465,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Rosalina in the Observatory 3",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 466,
-        "playlistId": "stream"
-    },
-    {
-        "title": "King Bowser",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 467,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Melty Molten Galaxy",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 468,
-        "playlistId": "stream"
-    },
-    {
-        "title": "The Galaxy Reactor",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 469,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Final Battle with Bowser",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 470,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Daybreak - A New Dawn",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 471,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Birth",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 472,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Super Mario Galaxy",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 473,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Purple Comet",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 474,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Blue Sky Athletic",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 475,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Super Mario 2007",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 476,
-        "playlistId": "stream"
-    },
-    {
-        "title": "File Select",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 477,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Luma",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 478,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Gateway Galaxy",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 479,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Stolen Grand Star",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 480,
-        "playlistId": "stream"
-    },
-    {
-        "title": "To the Observatory Grounds 1",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 481,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Observation Dome",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 482,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Course Select",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 483,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Dino Piranha",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 484,
-        "playlistId": "stream"
-    },
-    {
-        "title": "A Tense Moment",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 485,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Big Bad Bugaboom",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 486,
-        "playlistId": "stream"
-    },
-    {
-        "title": "King Kaliente",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 487,
-        "playlistId": "stream"
-    },
-    {
-        "title": "The Toad Brigade",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 488,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Airship Armada",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 489,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Aquatic Race",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 490,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Space Fantasy",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 491,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Megaleg",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 492,
-        "playlistId": "stream"
-    },
-    {
-        "title": "To the Observatory Grounds 2",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 493,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Space Athletic",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 494,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Speedy Comet",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 495,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Beach Bowl Galaxy - Undersea",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 496,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Interlude",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 497,
-        "playlistId": "stream"
-    },
-    {
-        "title": "The Fiery Stronghold",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 498,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Bowser Appears",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 499,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Star Ball",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 500,
-        "playlistId": "stream"
-    },
-    {
-        "title": "The Library",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 501,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Buoy Base Galaxy - Undersea",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 502,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Rainbow Mario",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 503,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Chase the Bunnies!",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 504,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Major Burrows",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 505,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Pipe Interior",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 506,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Cosmic Comet",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 507,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Drip Drop Galaxy",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 508,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Kingfin",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 509,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Boo Race",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 510,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Ice Mountain",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 511,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Ice Mario",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 512,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Lava Path",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 513,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Fire Mario",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 514,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Dusty Dune Galaxy",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 515,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Heavy Metal Mecha-Bowser",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 516,
-        "playlistId": "stream"
-    },
-    {
-        "title": "A-wa-wa-wa!",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 517,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Deep Dark Galaxy",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 518,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Kamella",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 519,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Star Ball 2",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 520,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Sad Girl",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 521,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Flying Mario",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 522,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Star Child",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 523,
-        "playlistId": "stream"
-    },
-    {
-        "title": "A Wish",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 524,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Family",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy",
-        "id": 525,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Title",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 526,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Opening ~In the Skies Above Peach's Castle~",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 527,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Encounter with Cappy",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 528,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Bonneton",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 529,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Top-Hat Tower",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 530,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Broodals Battle",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 531,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Fossil Falls",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 532,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Capturing Tyrannosaurus!",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 533,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Mario, World Traveler ~The Odyssey's First Takeoff~",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 534,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Tostarena Ruins",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 535,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Steam Gardens",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 536,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Riding the Jaxi",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 537,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Tostarena Town",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 538,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Steam Gardens Sherm",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 539,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Torkdrift Battle",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 540,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Lake Lamode Underwater Passage",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 541,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Lake Lamode",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 542,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Lake Lamode Above Ground",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 543,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Bowser Bombardment ~ The Odyssey Crashes",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 544,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Forgotten Isle",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 545,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Mechawiggler Battle",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 546,
-        "playlistId": "stream"
-    },
-    {
-        "title": "New Donk City",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 547,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Poolside Rest",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 548,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Underground Power Plant",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 549,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Jump Up, Super Star! NDC Festival Edition",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 550,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Shiveria Town",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 551,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Ice Cave",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 552,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Snowline Circuit",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 553,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Bound Bowl GP",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 554,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Race Result",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 555,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Bubblaine",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 556,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Bubblaine Underwater",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 557,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Mount Volbono",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 558,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Peronza Plaza",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 559,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Bowser Castle",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 560,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Bowser Castle Courtyard",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 561,
-        "playlistId": "stream"
-    },
-    {
-        "title": "To the Next Kingdom",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 562,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Honeylune Ridge",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 563,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Bowser Battle 2 ~Final Battlefield~",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 564,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Staff Roll",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 565,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Peach's Castle",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 566,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Crazy Cap",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 567,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Let's Play Slots",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 568,
-        "playlistId": "stream"
-    },
-    {
-        "title": "RC Car Challenge",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 569,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Koopa Trace-Walking",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 570,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Run, Jump, Throw! Stage 1",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 571,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Run, Jump, Throw! Stage 2",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 572,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Caves Stage",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 573,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Another World Stage",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 574,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Above the Clouds Stage",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 575,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Jump Up, Super Star! Music Box Version",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 576,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Lullaby Until the End (Fossil Falls Music Box Version)",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 577,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Jump Up, Super Star!",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 578,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Jump Up, Super Star! Karaoke",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 579,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Break Free (Lead the Way) Karaoke",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 580,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Fossil Falls 8bit Version",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 581,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Tostarena Ruins 8bit Version",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 582,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Inside the Inverted Pyramid 8bit Version",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 583,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Tostarena Night 8bit Version",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 584,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Steam Gardens 8bit Version",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 585,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Lake Lamode 8bit Version",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 586,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Forgotten Isle 8bit Version",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 587,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Run, Jump, Throw! Stage 2 8bit Version",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 588,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Underground Power Plant 8bit Version",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 589,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Bubblaine 8bit Version",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 590,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Mount Volbono 8bit Version",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 591,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Bowser Castle 8bit Version",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 592,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Honeylune Ridge 8bit Version",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 593,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Break Free (Lead The Way) 8bit Version",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 594,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Jump Up, Super Star! NDC Festival Edition 8bit Version",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 595,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Projection Room Above Ground",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 596,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Projection Room Underground",
-        "artist": "Nintendo",
-        "album": "Super Mario Odyssey",
-        "id": 597,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Opening Cutscene",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 598,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Title Screen - First Time",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 599,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Settings - First Time",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 600,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Title Screen",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 601,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Settings - Title Screen",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 602,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Main Menu",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 603,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Main Menu Settings",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 604,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Pick a Mii!",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 605,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Configurate",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 606,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Pick a Mii (Melody)",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 607,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Tutorial",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 608,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Versus",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 609,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Versus (Champion)",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 610,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Swordplay - Versus",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 611,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Swordplay - Versus Champion",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 612,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Swordplay - Winning Results",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 613,
+        "id": 211,
         "playlistId": "stream"
     },
     {
         "title": "Shifting Stars",
         "artist": "Riot Act",
         "album": "Splatune 3",
-        "id": 614,
+        "id": 212,
         "playlistId": "stream"
     },
     {
-        "title": "Swordplay - Losing Results",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 615,
+        "title": "No Plan Survives",
+        "artist": "Riot Act",
+        "album": "Splatune 3",
+        "id": 213,
         "playlistId": "stream"
     },
     {
-        "title": "Swordplay - Versus Winning Results",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 616,
+        "title": "Anarchy Splatcast (Splatfest!)",
+        "artist": "Deep Cut",
+        "album": "Splatune 3",
+        "id": 214,
         "playlistId": "stream"
     },
     {
-        "title": "Wakeboarding - Camera Overview",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 617,
+        "title": "Anarchy Rainbow",
+        "artist": "Deep Cut",
+        "album": "Splatune 3",
+        "id": 215,
         "playlistId": "stream"
     },
     {
-        "title": "Wakeboarding - Change",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 618,
+        "title": "Anarchy Poisons (Bird Mix)",
+        "artist": "Shiver",
+        "album": "Splatune 3",
+        "id": 216,
         "playlistId": "stream"
     },
     {
-        "title": "Wakeboarding - Results",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 619,
+        "title": "Anarchy Poisons (Snake Mix)",
+        "artist": "Frye",
+        "album": "Splatune 3",
+        "id": 217,
         "playlistId": "stream"
     },
     {
-        "title": "Frisbee Dog - Change",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 620,
+        "title": "Anarchy Poisons (Boar Mix)",
+        "artist": "Big Man",
+        "album": "Splatune 3",
+        "id": 218,
         "playlistId": "stream"
     },
     {
-        "title": "Frisbee Dog - Finished",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 621,
+        "title": "Fins in the Air",
+        "artist": "Deep Cut",
+        "album": "Splatune 3",
+        "id": 219,
         "playlistId": "stream"
     },
     {
-        "title": "Frisbee Dog - Results",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 622,
+        "title": "Till Depth Do Us Part",
+        "artist": "Deep Cut",
+        "album": "Splatune 3",
+        "id": 220,
         "playlistId": "stream"
     },
     {
-        "title": "Frisbee Dog - Camera Overview",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 623,
+        "title": "Now or Never! (Splatfest!)",
+        "artist": "Deep Cut",
+        "album": "Splatune 3",
+        "id": 221,
         "playlistId": "stream"
     },
     {
-        "title": "Archery - Camera Overview",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 624,
+        "title": "Vs. Lobby (Splatfest!)",
+        "artist": "Deep Cut",
+        "album": "Splatune 3",
+        "id": 222,
         "playlistId": "stream"
     },
     {
-        "title": "Archery - Change",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 625,
+        "title": "Liquid Sunshine",
+        "artist": "Squid Sisters feat. Ian BGM",
+        "album": "Splatune 3",
+        "id": 223,
         "playlistId": "stream"
     },
     {
-        "title": "Archery - Round 2",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 626,
+        "title": "Big Betrayal",
+        "artist": "Deep Cut",
+        "album": "Splatune 3",
+        "id": 224,
         "playlistId": "stream"
     },
     {
-        "title": "Archery - Round 3",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 627,
+        "title": "Daybreaker Anthem",
+        "artist": "Deep Cut",
+        "album": "Splatune 3",
+        "id": 225,
         "playlistId": "stream"
     },
     {
-        "title": "Archery - Round 4",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 628,
+        "title": "Suffer No Fools",
+        "artist": "Off the Hook VS Fire & Ice",
+        "album": "Splatune 3",
+        "id": 226,
         "playlistId": "stream"
     },
     {
-        "title": "Archery - Single Player End",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 629,
+        "title": "Soak & Stomp (First Half)",
+        "artist": "Anglerfish",
+        "album": "Splatune 3",
+        "id": 227,
         "playlistId": "stream"
     },
     {
-        "title": "Archery - Results",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 630,
+        "title": "Soak & Stomp (Second Half)",
+        "artist": "Anglerfish",
+        "album": "Splatune 3",
+        "id": 228,
         "playlistId": "stream"
     },
     {
-        "title": "Basketball - Camera Overview",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 631,
+        "title": "Grizzco Lobby",
+        "artist": "Grizzco Industries",
+        "album": "Splatune 3",
+        "id": 229,
         "playlistId": "stream"
     },
     {
-        "title": "Basketball - Change Sides",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 632,
+        "title": "Bait & Click (Mutation)",
+        "artist": "ω-3",
+        "album": "Splatune 3",
+        "id": 230,
         "playlistId": "stream"
     },
     {
-        "title": "Basketball - Winning Results",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 633,
+        "title": "Frothy Waters",
+        "artist": "ω-3",
+        "album": "Splatune 3",
+        "id": 231,
         "playlistId": "stream"
     },
     {
-        "title": "Basketball - Draw Results",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 634,
+        "title": "Bait & Click",
+        "artist": "ω-3",
+        "album": "Splatune 3",
+        "id": 232,
         "playlistId": "stream"
     },
     {
-        "title": "Basketball - Losing Results",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 635,
+        "title": "Frantic Aspic (Remix)",
+        "artist": "ω-3",
+        "album": "Splatune 3",
+        "id": 233,
         "playlistId": "stream"
     },
     {
-        "title": "Table Tennis - Return Challenge Overview",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 636,
+        "title": "Happy Little Workers - 24/7 Mix",
+        "artist": "Grizzco Industries",
+        "album": "Splatune 3",
+        "id": 234,
         "playlistId": "stream"
     },
     {
-        "title": "Table Tennis - Match Camera Overview",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 637,
+        "title": "Cap'n Cuttlefish Theme (Low Tide Remix)",
+        "artist": "Squid Sisters",
+        "album": "Splatune 3",
+        "id": 235,
         "playlistId": "stream"
     },
     {
-        "title": "Table Tennis - Change Court",
+        "title": "The Crater",
         "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 638,
+        "album": "Splatune 3",
+        "id": 236,
         "playlistId": "stream"
     },
     {
-        "title": "Table Tennis - Replay",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 639,
+        "title": "Crater Eighters Routine",
+        "artist": "Turquoise October",
+        "album": "Splatune 3",
+        "id": 237,
         "playlistId": "stream"
     },
     {
-        "title": "Table Tennis - Replay 2",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 640,
+        "title": "I Am Octavio",
+        "artist": "DJ Octavio",
+        "album": "Splatune 3",
+        "id": 238,
         "playlistId": "stream"
     },
     {
-        "title": "Table Tennis - Advance Replay",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 641,
+        "title": "Sandcastles",
+        "artist": "Stars in the Deep",
+        "album": "Splatune 3",
+        "id": 239,
         "playlistId": "stream"
     },
     {
-        "title": "Table Tennis - Advance Replay 2",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 642,
+        "title": "Sudden Depth",
+        "artist": "Mimicry",
+        "album": "Splatune 3",
+        "id": 240,
         "playlistId": "stream"
     },
     {
-        "title": "Table Tennis - Deuce Replay",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 643,
+        "title": "Two Shadows in the Sun",
+        "artist": "Wash Out",
+        "album": "Splatune 3",
+        "id": 241,
         "playlistId": "stream"
     },
     {
-        "title": "Table Tennis - Deuce Replay 2",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 644,
+        "title": "Dead Sea",
+        "artist": "Firefly",
+        "album": "Splatune 3",
+        "id": 242,
         "playlistId": "stream"
     },
     {
-        "title": "Table Tennis - Winning Results",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 645,
+        "title": "Whirlpool Tune",
+        "artist": "On the Clock",
+        "album": "Splatune 3",
+        "id": 243,
         "playlistId": "stream"
     },
     {
-        "title": "Losing Results",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 646,
+        "title": "Hyper Diver",
+        "artist": "Anxiety Society",
+        "album": "Splatune 3",
+        "id": 244,
         "playlistId": "stream"
     },
     {
-        "title": "Golf - Camera Overview",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 647,
+        "title": "Squid Sisters Introduction",
+        "artist": "Squid Sisters",
+        "album": "Splatune 3",
+        "id": 245,
         "playlistId": "stream"
     },
     {
-        "title": "Golf - Results",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 648,
+        "title": "Nine Out of Tension",
+        "artist": "Octoplush",
+        "album": "Splatune 3",
+        "id": 246,
         "playlistId": "stream"
     },
     {
-        "title": "Bowling - Camera Overview",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 649,
+        "title": "Underwater Neon",
+        "artist": "Octoplush",
+        "album": "Splatune 3",
+        "id": 247,
         "playlistId": "stream"
     },
     {
-        "title": "Bowling - Standard Game",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 650,
+        "title": "Flop to It",
+        "artist": "Octoplush",
+        "album": "Splatune 3",
+        "id": 248,
         "playlistId": "stream"
     },
     {
-        "title": "Bowling - 100 Pin Game",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 651,
+        "title": "Smoke and Mirrors",
+        "artist": "Octoplush",
+        "album": "Splatune 3",
+        "id": 249,
         "playlistId": "stream"
     },
     {
-        "title": "Bowling - Spin Control",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 652,
+        "title": "Ride or Fry",
+        "artist": "Octoplush",
+        "album": "Splatune 3",
+        "id": 250,
         "playlistId": "stream"
     },
     {
-        "title": "Bowling - Results",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 653,
+        "title": "Sleep & Destroy",
+        "artist": "Octoplush",
+        "album": "Splatune 3",
+        "id": 251,
         "playlistId": "stream"
     },
     {
-        "title": "Power Cruising - Camera Overview",
+        "title": "Deep Cut Boss",
+        "artist": "Deep Cut",
+        "album": "Splatune 3",
+        "id": 252,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Alterna Space Centre Entrance",
         "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 654,
+        "album": "Splatune 3",
+        "id": 253,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Hide and Sleek",
+        "artist": "Deep Cut",
+        "album": "Splatune 3",
+        "id": 254,
+        "playlistId": "stream"
+    },
+    {
+        "title": "The Spirit Lifter: Steerage & First Class",
+        "artist": "Deep Cut",
+        "album": "Splatune 3",
+        "id": 255,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Calamari Inktantion 3Mix",
+        "artist": "DJ Octavio; Squid Sisters; Deep Cut",
+        "album": "Splatune 3",
+        "id": 256,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Wave Goodbye",
+        "artist": "Squid Sisters",
+        "album": "Splatune 3",
+        "id": 257,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Tableturf Battle - Main Theme",
+        "artist": "Ancho-V Games",
+        "album": "Splatune 3",
+        "id": 258,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Tableturf Battle - Now or Never!",
+        "artist": "Ancho-V Games",
+        "album": "Splatune 3",
+        "id": 259,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Tableturf Battle - Victory",
+        "artist": "Ancho-V Games",
+        "album": "Splatune 3",
+        "id": 260,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Tableturf Battle - Defeat",
+        "artist": "Ancho-V Games",
+        "album": "Splatune 3",
+        "id": 261,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Tableturf Battle - Level Select",
+        "artist": "Ancho-V Games",
+        "album": "Splatune 3",
+        "id": 262,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Tableturf Battle - Deck Select",
+        "artist": "Ancho-V Games",
+        "album": "Splatune 3",
+        "id": 263,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Tableturf Battle - Deck Edit",
+        "artist": "Ancho-V Games",
+        "album": "Splatune 3",
+        "id": 264,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Clickbait (Demo)",
+        "artist": "C-Side",
+        "album": "Splatune 3",
+        "id": 265,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Title Theme",
+        "artist": "Squid Squad",
+        "album": "Splatune",
+        "id": 266,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Squid Sisters' News",
+        "artist": "Squid Sisters",
+        "album": "Splatune",
+        "id": 267,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Lookin' Fresh",
+        "artist": "DJ Lee Fish",
+        "album": "Splatune",
+        "id": 268,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Online Selection Screen (w/ Intro)",
+        "artist": "Nintendo",
+        "album": "Splatune",
+        "id": 269,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Dubble Bath",
+        "artist": "Bob Dub",
+        "album": "Splatune",
+        "id": 270,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Splattack!",
+        "artist": "Squid Squad",
+        "album": "Splatune",
+        "id": 271,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Ink or Sink",
+        "artist": "Squid Squad",
+        "album": "Splatune",
+        "id": 272,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Kraken Up",
+        "artist": "Squid Squad",
+        "album": "Splatune",
+        "id": 273,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Seaskape",
+        "artist": "Squid Squad",
+        "album": "Splatune",
+        "id": 274,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Now or Never",
+        "artist": "Squid Squad",
+        "album": "Splatune",
+        "id": 275,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Cap'n Cuttlefish's Theme",
+        "artist": "Nintendo",
+        "album": "Splatune",
+        "id": 276,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Octo Valley",
+        "artist": "Turquoise October",
+        "album": "Splatune",
+        "id": 277,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Eight Legged Advance",
+        "artist": "Turquoise October",
+        "album": "Splatune",
+        "id": 278,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Eight Legged Advance (Last Checkpoint)",
+        "artist": "Turquoise October",
+        "album": "Splatune",
+        "id": 279,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Cephaloparade",
+        "artist": "Turquoise October",
+        "album": "Splatune",
+        "id": 280,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Cephaloparade (Last Checkpoint)",
+        "artist": "Turquoise October",
+        "album": "Splatune",
+        "id": 281,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Tentacular Circus",
+        "artist": "Turquoise October",
+        "album": "Splatune",
+        "id": 282,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Tentacular Circus (w/ Intro)",
+        "artist": "Turquoise October",
+        "album": "Splatune",
+        "id": 283,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Octoling Rendezvous",
+        "artist": "Turquoise October",
+        "album": "Splatune",
+        "id": 284,
+        "playlistId": "stream"
+    },
+    {
+        "title": "I am Octavio",
+        "artist": "DJ Octavio",
+        "album": "Splatune",
+        "id": 285,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Calamari Inkantation",
+        "artist": "Squid Sisters",
+        "album": "Splatune",
+        "id": 286,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Maritime Memory",
+        "artist": "Squid Sisters",
+        "album": "Splatune",
+        "id": 287,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Split & Splat",
+        "artist": "Chirpy Chips",
+        "album": "Splatune",
+        "id": 288,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Shellfie",
+        "artist": "Chirpy Chips",
+        "album": "Splatune",
+        "id": 289,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Sucker Punch",
+        "artist": "Hightide Era",
+        "album": "Splatune",
+        "id": 290,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Hooked",
+        "artist": "Hightide Era",
+        "album": "Splatune",
+        "id": 291,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Sunken Scroll",
+        "artist": "Nintendo",
+        "album": "Splatune",
+        "id": 292,
+        "playlistId": "stream"
+    },
+    {
+        "title": "City of Color",
+        "artist": "Squid Sisters",
+        "album": "Splatune",
+        "id": 293,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Ink Me Up",
+        "artist": "Squid Sisters",
+        "album": "Splatune",
+        "id": 294,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Now or Never!",
+        "artist": "Squid Sisters",
+        "album": "Splatune",
+        "id": 295,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Bomb Rush Blush",
+        "artist": "Callie",
+        "album": "Splatune",
+        "id": 296,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Tide Goes Out",
+        "artist": "Marie",
+        "album": "Splatune",
+        "id": 297,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Title Theme",
+        "artist": "Nintendo",
+        "album": "Super Mario 64 - Remastered",
+        "id": 298,
+        "playlistId": "stream"
+    },
+    {
+        "title": "File Select",
+        "artist": "Nintendo",
+        "album": "Super Mario 64 - Remastered",
+        "id": 299,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Inside the Castle Walls",
+        "artist": "Nintendo",
+        "album": "Super Mario 64 - Remastered",
+        "id": 300,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Bob-omb Battlefield",
+        "artist": "Nintendo",
+        "album": "Super Mario 64 - Remastered",
+        "id": 301,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Piranha Plant's Lullaby",
+        "artist": "Nintendo",
+        "album": "Super Mario 64 - Remastered",
+        "id": 302,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Piranha Plant's Lullaby (Piano)",
+        "artist": "Nintendo",
+        "album": "Super Mario 64 - Remastered",
+        "id": 303,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Dire, Dire Docks",
+        "artist": "Nintendo",
+        "album": "Super Mario 64 - Remastered",
+        "id": 304,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Dire, Dire Docks (Underwater)",
+        "artist": "Nintendo",
+        "album": "Super Mario 64 - Remastered",
+        "id": 305,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Dire, Dire Docks (Cave)",
+        "artist": "Nintendo",
+        "album": "Super Mario 64 - Remastered",
+        "id": 306,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Powerful Mario",
+        "artist": "Nintendo",
+        "album": "Super Mario 64 - Remastered",
+        "id": 307,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Metallic Mario",
+        "artist": "Nintendo",
+        "album": "Super Mario 64 - Remastered",
+        "id": 308,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Slider",
+        "artist": "Nintendo",
+        "album": "Super Mario 64 - Remastered",
+        "id": 309,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Ending",
+        "artist": "Nintendo",
+        "album": "Super Mario 64 - Remastered",
+        "id": 310,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Overture",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy 2",
+        "id": 311,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Another Story",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy 2",
+        "id": 312,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Sky Station Galaxy",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy 2",
+        "id": 313,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Unknown Star",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy 2",
+        "id": 314,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Yoshi Star Galaxy",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy 2",
+        "id": 315,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Starship Mario 1",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy 2",
+        "id": 316,
+        "playlistId": "stream"
+    },
+    {
+        "title": "World 1 & 2",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy 2",
+        "id": 317,
+        "playlistId": "stream"
+    },
+    {
+        "title": "The Starship Sails",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy 2",
+        "id": 318,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Spin-Dig Galaxy",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy 2",
+        "id": 319,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Puzzle Plank Galaxy",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy 2",
+        "id": 320,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Wild Glide Galaxy",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy 2",
+        "id": 321,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Cosmic Cove Galaxy",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy 2",
+        "id": 322,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Dash Yoshi",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy 2",
+        "id": 323,
+        "playlistId": "stream"
+    },
+    {
+        "title": "World 3",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy 2",
+        "id": 324,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Forest Dwellers",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy 2",
+        "id": 325,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Slider",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy 2",
+        "id": 326,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Warp Pipe Room",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy 2",
+        "id": 327,
         "playlistId": "stream"
     },
     {
         "title": "Ball Rolling",
         "artist": "Nintendo",
         "album": "Super Mario Galaxy 2",
-        "id": 655,
+        "id": 328,
         "playlistId": "stream"
     },
     {
-        "title": "Power Cruising - Results",
+        "title": "Cloudy Court Galaxy",
         "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 656,
+        "album": "Super Mario Galaxy 2",
+        "id": 329,
         "playlistId": "stream"
     },
     {
-        "title": "Canoeing - Camera Overview",
+        "title": "Starship Mario 2",
         "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 657,
+        "album": "Super Mario Galaxy 2",
+        "id": 330,
         "playlistId": "stream"
     },
     {
-        "title": "Canoeing - Good Results",
+        "title": "World 4",
         "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 658,
+        "album": "Super Mario Galaxy 2",
+        "id": 331,
         "playlistId": "stream"
     },
     {
-        "title": "Canoeing - Bad Results",
+        "title": "Starshine Beach Galaxy",
         "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 659,
+        "album": "Super Mario Galaxy 2",
+        "id": 332,
         "playlistId": "stream"
     },
     {
-        "title": "Cycling - Road Race - Camera Overview",
+        "title": "Starshine Beach Galaxy -Underwater-",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy 2",
+        "id": 333,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Rightside Down Galaxy",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy 2",
+        "id": 334,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Squizzard",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy 2",
+        "id": 335,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Starship Mario 3",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy 2",
+        "id": 336,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Melty Monster Galaxy",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy 2",
+        "id": 337,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Throwback Galaxy",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy 2",
+        "id": 338,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Fleet Glide Galaxy",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy 2",
+        "id": 339,
+        "playlistId": "stream"
+    },
+    {
+        "title": "World S",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy 2",
+        "id": 340,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Galaxy Generator",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy 2",
+        "id": 341,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Credits",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy 2",
+        "id": 342,
+        "playlistId": "stream"
+    },
+    {
+        "title": "The Luma and the Hat",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy 2",
+        "id": 343,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Green Star",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy 2",
+        "id": 344,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Main Theme",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy 2",
+        "id": 345,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Overture",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 346,
+        "playlistId": "stream"
+    },
+    {
+        "title": "The Star Festival",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 347,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Enter the Galaxy",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 348,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Egg Planet",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 349,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Rosalina in the Observatory 1",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 350,
+        "playlistId": "stream"
+    },
+    {
+        "title": "The Honeyhive",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 351,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Space Junk Road",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 352,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Battlerock Galaxy",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 353,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Beach Bowl Galaxy",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 354,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Rosalina in the Observatory 2",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 355,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Waltz of the Boos",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 356,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Buoy Base Galaxy",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 357,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Gusty Garden Galaxy",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 358,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Rosalina in the Observatory 3",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 359,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Super Mario Galaxy",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 360,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Purple Comet",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 361,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Blue Sky Athletic",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 362,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Super Mario 2007",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 363,
+        "playlistId": "stream"
+    },
+    {
+        "title": "File Select",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 364,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Luma",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 365,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Gateway Galaxy",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 366,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Aquatic Race",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 367,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Space Fantasy",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 368,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Beach Bowl Galaxy - Undersea",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 369,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Star Ball",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 370,
+        "playlistId": "stream"
+    },
+    {
+        "title": "The Library",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 371,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Buoy Base Galaxy - Undersea",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 372,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Chase the Bunnies!",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 373,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Pipe Interior",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 374,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Drip Drop Galaxy",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 375,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Flying Mario",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 376,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Star Ball 2",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 377,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Star Child",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 378,
+        "playlistId": "stream"
+    },
+    {
+        "title": "A Wish",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 379,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Family",
+        "artist": "Nintendo",
+        "album": "Super Mario Galaxy",
+        "id": 380,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Encounter with Cappy",
+        "artist": "Nintendo",
+        "album": "Super Mario Odyssey",
+        "id": 381,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Bonneton",
+        "artist": "Nintendo",
+        "album": "Super Mario Odyssey",
+        "id": 382,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Fossil Falls",
+        "artist": "Nintendo",
+        "album": "Super Mario Odyssey",
+        "id": 383,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Steam Gardens",
+        "artist": "Nintendo",
+        "album": "Super Mario Odyssey",
+        "id": 384,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Steam Gardens Sherm",
+        "artist": "Nintendo",
+        "album": "Super Mario Odyssey",
+        "id": 385,
+        "playlistId": "stream"
+    },
+    {
+        "title": "New Donk City",
+        "artist": "Nintendo",
+        "album": "Super Mario Odyssey",
+        "id": 386,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Poolside Rest",
+        "artist": "Nintendo",
+        "album": "Super Mario Odyssey",
+        "id": 387,
+        "playlistId": "stream"
+    },
+    {
+        "title": "To the Next Kingdom",
+        "artist": "Nintendo",
+        "album": "Super Mario Odyssey",
+        "id": 388,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Run, Jump, Throw! Stage 1",
+        "artist": "Nintendo",
+        "album": "Super Mario Odyssey",
+        "id": 389,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Run, Jump, Throw! Stage 2",
+        "artist": "Nintendo",
+        "album": "Super Mario Odyssey",
+        "id": 390,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Another World Stage",
+        "artist": "Nintendo",
+        "album": "Super Mario Odyssey",
+        "id": 391,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Above the Clouds Stage",
+        "artist": "Nintendo",
+        "album": "Super Mario Odyssey",
+        "id": 392,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Jump Up, Super Star! Music Box Version",
+        "artist": "Nintendo",
+        "album": "Super Mario Odyssey",
+        "id": 393,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Lullaby Until the End (Fossil Falls Music Box Version)",
+        "artist": "Nintendo",
+        "album": "Super Mario Odyssey",
+        "id": 394,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Jump Up, Super Star!",
+        "artist": "Nintendo",
+        "album": "Super Mario Odyssey",
+        "id": 395,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Title Screen - First Time",
         "artist": "Nintendo",
         "album": "Wii Sports Resort",
-        "id": 660,
+        "id": 396,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Settings - First Time",
+        "artist": "Nintendo",
+        "album": "Wii Sports Resort",
+        "id": 397,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Title Screen",
+        "artist": "Nintendo",
+        "album": "Wii Sports Resort",
+        "id": 398,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Settings - Title Screen",
+        "artist": "Nintendo",
+        "album": "Wii Sports Resort",
+        "id": 399,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Main Menu",
+        "artist": "Nintendo",
+        "album": "Wii Sports Resort",
+        "id": 400,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Main Menu Settings",
+        "artist": "Nintendo",
+        "album": "Wii Sports Resort",
+        "id": 401,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Pick a Mii!",
+        "artist": "Nintendo",
+        "album": "Wii Sports Resort",
+        "id": 402,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Configurate",
+        "artist": "Nintendo",
+        "album": "Wii Sports Resort",
+        "id": 403,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Pick a Mii (Melody)",
+        "artist": "Nintendo",
+        "album": "Wii Sports Resort",
+        "id": 404,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Wakeboarding - Results",
+        "artist": "Nintendo",
+        "album": "Wii Sports Resort",
+        "id": 405,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Frisbee Dog - Results",
+        "artist": "Nintendo",
+        "album": "Wii Sports Resort",
+        "id": 406,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Frisbee Dog - Camera Overview",
+        "artist": "Nintendo",
+        "album": "Wii Sports Resort",
+        "id": 407,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Archery - Camera Overview",
+        "artist": "Nintendo",
+        "album": "Wii Sports Resort",
+        "id": 408,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Archery - Change",
+        "artist": "Nintendo",
+        "album": "Wii Sports Resort",
+        "id": 409,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Archery - Single Player End",
+        "artist": "Nintendo",
+        "album": "Wii Sports Resort",
+        "id": 410,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Basketball - Winning Results",
+        "artist": "Nintendo",
+        "album": "Wii Sports Resort",
+        "id": 411,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Basketball - Draw Results",
+        "artist": "Nintendo",
+        "album": "Wii Sports Resort",
+        "id": 412,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Basketball - Losing Results",
+        "artist": "Nintendo",
+        "album": "Wii Sports Resort",
+        "id": 413,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Golf - Results",
+        "artist": "Nintendo",
+        "album": "Wii Sports Resort",
+        "id": 414,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Bowling - Standard Game",
+        "artist": "Nintendo",
+        "album": "Wii Sports Resort",
+        "id": 415,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Bowling - Results",
+        "artist": "Nintendo",
+        "album": "Wii Sports Resort",
+        "id": 416,
         "playlistId": "stream"
     },
     {
         "title": "Cycling - Road Race - Starting Off",
         "artist": "Nintendo",
         "album": "Wii Sports Resort",
-        "id": 661,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Cycling - Road Race - Starting Off (Recovering)",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 662,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Cycling - Road Race - Almost There! (Recovering)",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 663,
+        "id": 417,
         "playlistId": "stream"
     },
     {
         "title": "Cycling - Road Race - Doing Good",
         "artist": "Nintendo",
         "album": "Wii Sports Resort",
-        "id": 664,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Cycling - Road Race - Doing Good (Recovering)",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 665,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Cycling - Road Race - Final Stretch!",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 666,
+        "id": 418,
         "playlistId": "stream"
     },
     {
         "title": "Cycling - Road Race - Almost There!",
         "artist": "Nintendo",
         "album": "Wii Sports Resort",
-        "id": 667,
+        "id": 419,
         "playlistId": "stream"
     },
     {
-        "title": "Cycling - Road Race - Final Stretch (Recovering)",
+        "title": "Cycling - Road Race - Final Stretch!",
         "artist": "Nintendo",
         "album": "Wii Sports Resort",
-        "id": 668,
+        "id": 420,
         "playlistId": "stream"
     },
     {
         "title": "Cycling - Road Race - First Place!",
         "artist": "Nintendo",
         "album": "Wii Sports Resort",
-        "id": 669,
+        "id": 421,
         "playlistId": "stream"
     },
     {
         "title": "Cycling - Road Race - Melody",
         "artist": "Nintendo",
         "album": "Wii Sports Resort",
-        "id": 670,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Cycling - Results",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 671,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Cycling - Versus - Camera Overview",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 672,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Cycling - Versus - Halfway",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 673,
+        "id": 422,
         "playlistId": "stream"
     },
     {
         "title": "Cycling - Versus - Starting Off",
         "artist": "Nintendo",
         "album": "Wii Sports Resort",
-        "id": 674,
+        "id": 423,
+        "playlistId": "stream"
+    },
+    {
+        "title": "Cycling - Versus - Halfway",
+        "artist": "Nintendo",
+        "album": "Wii Sports Resort",
+        "id": 424,
         "playlistId": "stream"
     },
     {
         "title": "Cycling - Versus - Almost There!",
         "artist": "Nintendo",
         "album": "Wii Sports Resort",
-        "id": 675,
+        "id": 425,
         "playlistId": "stream"
     },
     {
         "title": "Cycling - Versus - Melody",
         "artist": "Nintendo",
         "album": "Wii Sports Resort",
-        "id": 676,
+        "id": 426,
         "playlistId": "stream"
     },
     {
         "title": "Cycling - Winning Results",
         "artist": "Nintendo",
         "album": "Wii Sports Resort",
-        "id": 677,
+        "id": 427,
         "playlistId": "stream"
     },
     {
         "title": "Skydiving - Plane Radio",
         "artist": "Nintendo",
         "album": "Wii Sports Resort",
-        "id": 678,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Skydiving - Results",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 679,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Island Flyover - Camera Overview",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 680,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Air Sports - Lakeside Castle at Day",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 681,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Air Sports - Lakeside Castle at Night",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 682,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Air Sports - The Queen Peach at Day",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 683,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Air Sports - The Queen Peach at Night",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 684,
+        "id": 428,
         "playlistId": "stream"
     },
     {
         "title": "Air Sports - Cabana Lagoon at Day",
         "artist": "Nintendo",
         "album": "Wii Sports Resort",
-        "id": 685,
+        "id": 429,
         "playlistId": "stream"
     },
     {
         "title": "Air Sports - Cabana Lagoon at Night",
         "artist": "Nintendo",
         "album": "Wii Sports Resort",
-        "id": 686,
+        "id": 430,
         "playlistId": "stream"
     },
     {
         "title": "Island Flyover - Results",
         "artist": "Nintendo",
         "album": "Wii Sports Resort",
-        "id": 687,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Dogfight - Results",
-        "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 688,
+        "id": 431,
         "playlistId": "stream"
     },
     {
         "title": "Title",
         "artist": "Nintendo",
         "album": "Wind Waker HD Sound Selection",
-        "id": 689,
+        "id": 432,
         "playlistId": "stream"
     },
     {
         "title": "Menu Select",
         "artist": "Nintendo",
         "album": "Wind Waker HD Sound Selection",
-        "id": 690,
+        "id": 433,
         "playlistId": "stream"
     },
     {
         "title": "The Legendary Hero",
         "artist": "Nintendo",
         "album": "Wind Waker HD Sound Selection",
-        "id": 691,
+        "id": 434,
         "playlistId": "stream"
     },
     {
         "title": "Outset Island",
         "artist": "Nintendo",
         "album": "Wind Waker HD Sound Selection",
-        "id": 692,
+        "id": 435,
         "playlistId": "stream"
     },
     {
         "title": "Grandma",
         "artist": "Nintendo",
         "album": "Wind Waker HD Sound Selection",
-        "id": 693,
+        "id": 436,
         "playlistId": "stream"
     },
     {
-        "title": "Swordplay - Draw Results",
+        "title": "Pirates",
         "artist": "Nintendo",
-        "album": "Wii Sports Resort",
-        "id": 694,
+        "album": "Wind Waker HD Sound Selection",
+        "id": 437,
         "playlistId": "stream"
     },
     {
         "title": "Windfall Island",
         "artist": "Nintendo",
         "album": "Wind Waker HD Sound Selection",
-        "id": 695,
+        "id": 438,
         "playlistId": "stream"
     },
     {
         "title": "The Great Sea",
         "artist": "Nintendo",
         "album": "Wind Waker HD Sound Selection",
-        "id": 696,
+        "id": 439,
         "playlistId": "stream"
     },
     {
         "title": "Dragon Roost Island",
         "artist": "Nintendo",
         "album": "Wind Waker HD Sound Selection",
-        "id": 697,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Mini-Boss",
-        "artist": "Nintendo",
-        "album": "Wind Waker HD Sound Selection",
-        "id": 698,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Gohma Battle First Half",
-        "artist": "Nintendo",
-        "album": "Wind Waker HD Sound Selection",
-        "id": 699,
+        "id": 440,
         "playlistId": "stream"
     },
     {
         "title": "Forest Haven",
         "artist": "Nintendo",
         "album": "Wind Waker HD Sound Selection",
-        "id": 700,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Kalle Demos Appears",
-        "artist": "Nintendo",
-        "album": "Wind Waker HD Sound Selection",
-        "id": 701,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Ceremony in the Woods",
-        "artist": "Nintendo",
-        "album": "Wind Waker HD Sound Selection",
-        "id": 702,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Gohdan Appears",
-        "artist": "Nintendo",
-        "album": "Wind Waker HD Sound Selection",
-        "id": 703,
+        "id": 441,
         "playlistId": "stream"
     },
     {
         "title": "Princess Zelda's Theme",
         "artist": "Nintendo",
         "album": "Wind Waker HD Sound Selection",
-        "id": 704,
+        "id": 442,
         "playlistId": "stream"
     },
     {
         "title": "Fairy Spring",
         "artist": "Nintendo",
         "album": "Wind Waker HD Sound Selection",
-        "id": 705,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Sage Laruto",
-        "artist": "Nintendo",
-        "album": "Wind Waker HD Sound Selection",
-        "id": 706,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Medli's Prayer",
-        "artist": "Nintendo",
-        "album": "Wind Waker HD Sound Selection",
-        "id": 707,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Sage Fado",
-        "artist": "Nintendo",
-        "album": "Wind Waker HD Sound Selection",
-        "id": 708,
+        "id": 443,
         "playlistId": "stream"
     },
     {
         "title": "Molgera",
         "artist": "Nintendo",
         "album": "Wind Waker HD Sound Selection",
-        "id": 709,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Makar's Prayer",
-        "artist": "Nintendo",
-        "album": "Wind Waker HD Sound Selection",
-        "id": 710,
-        "playlistId": "stream"
-    },
-    {
-        "title": "Farewell Hyrule King",
-        "artist": "Nintendo",
-        "album": "Wind Waker HD Sound Selection",
-        "id": 711,
+        "id": 444,
         "playlistId": "stream"
     },
     {
         "title": "Ending",
         "artist": "Nintendo",
         "album": "Wind Waker HD Sound Selection",
-        "id": 712,
+        "id": 445,
         "playlistId": "stream"
     },
     {
         "title": "Staff Credits",
         "artist": "Nintendo",
         "album": "Wind Waker HD Sound Selection",
-        "id": 713,
+        "id": 446,
         "playlistId": "stream"
     },
     {
         "title": "Epilogue",
         "artist": "Nintendo",
         "album": "Wind Waker HD Sound Selection",
-        "id": 714,
-        "playlistId": "stream"
-    },
-    {
-        "title": "The Almighty King Bowser",
-        "artist": "Nintendo",
-        "album": "Super Mario Galaxy 2",
-        "id": 715,
+        "id": 447,
         "playlistId": "stream"
     }
 ]
